@@ -147,15 +147,6 @@ comments: true
     
 
 ## 国际赛事
-??? Quote "[WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)"  
-    [![](https://ctftime.org/media/events/Logo_thing_1.png){ width="200" align=left }](https://ctf.mcpt.ca/contest/wxmctf)  
-    **比赛名称** : [WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-03-09 08:00:00 - 2024-03-11 07:00:00 UTC+8  
-    **比赛权重** : 23.59  
-    **赛事主办** : X Series CTF (https://ctftime.org/team/211390)  
-    **添加日历** : https://ctftime.org/event/2179.ics  
-    
 ??? Quote "[vikeCTF 2024](https://ctf.vikesec.ca/)"  
     [![](https://ctftime.org/media/events/vikesec.png){ width="200" align=left }](https://ctf.vikesec.ca/)  
     **比赛名称** : [vikeCTF 2024](https://ctf.vikesec.ca/)  
@@ -164,6 +155,15 @@ comments: true
     **比赛权重** : 23.64  
     **赛事主办** : PencilTesters (https://ctftime.org/team/178288)  
     **添加日历** : https://ctftime.org/event/2263.ics  
+    
+??? Quote "[WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)"  
+    [![](https://ctftime.org/media/events/Logo_thing_1.png){ width="200" align=left }](https://ctf.mcpt.ca/contest/wxmctf)  
+    **比赛名称** : [WxMCTF 2024](https://ctf.mcpt.ca/contest/wxmctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-03-09 08:00:00 - 2024-03-11 07:00:00 UTC+8  
+    **比赛权重** : 23.59  
+    **赛事主办** : X Series CTF (https://ctftime.org/team/211390)  
+    **添加日历** : https://ctftime.org/event/2179.ics  
     
 ??? Quote "[HackDay 2024 - Finals](https://www.hackday.fr/)"  
     [![](https://ctftime.org/media/events/CREA_LOGO_Blason_Espion_1.png){ width="200" align=left }](https://www.hackday.fr/)  
@@ -206,7 +206,7 @@ comments: true
     **比赛名称** : [GCC CTF 2024](https://gcc-ctf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-03-02 04:00:00 - 2024-03-04 04:00:00 UTC+8  
-    **比赛权重** : 24.90  
+    **比赛权重** : 24.91  
     **赛事主办** : Galette Cidre CTF (https://ctftime.org/team/246488)  
     **添加日历** : https://ctftime.org/event/2251.ics  
     
@@ -215,7 +215,7 @@ comments: true
     **比赛名称** : [osu!gaming CTF 2024](https://www.osugaming.lol/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
-    **比赛权重** : 24.13  
+    **比赛权重** : 23.90  
     **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
     **添加日历** : https://ctftime.org/event/2165.ics  
     
