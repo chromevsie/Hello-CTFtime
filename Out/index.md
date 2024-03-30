@@ -615,13 +615,6 @@
                 **比赛时间** : 2023年11月30日 00:00 - 2024年01月31日 00:00  
                 **其他说明** : QQ群：751273347  比赛时间待定  
                 
-            ??? Quote "[第七届西湖论剑网络安全技能大赛初赛](https://game.gcsis.cn/)"  
-                **比赛名称** : [第七届西湖论剑网络安全技能大赛初赛](https://game.gcsis.cn/)  
-                **比赛类型** : 团队赛|4-8人  
-                **报名时间** : 2024年01月09日 00:00 - 2024年01月24日 18:00  
-                **比赛时间** : 2024年01月30日 10:00 - 2024年01月30日 18:00  
-                **其他说明** : QQ群：666010671 768342822    
-                
         === "国外赛事"
             ??? Quote "[HACKFEST'8 QUALS](https://ctf-quals-8.hackfest.tn/)"  
                 [![](https://ctftime.org/media/events/HACKFEST_WHITE.png){ width="200" align=left }](https://ctf-quals-8.hackfest.tn/)  
