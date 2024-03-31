@@ -483,13 +483,7 @@
                 
     === "*正在进行*"
         === "国内赛事"
-            ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
-                **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
-                **比赛类型** : 团队赛|1-4人  
-                **报名时间** : 2023年12月21日 00:00 - 2024年02月20日 18:00  
-                **比赛时间** : 2024年03月01日 09:00 - 2024年03月31日 18:00  
-                **其他说明** : 比赛时间2024年3月  
-                
+    
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -538,6 +532,13 @@
                 
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
+                **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
+                **比赛类型** : 团队赛|1-4人  
+                **报名时间** : 2023年12月21日 00:00 - 2024年02月20日 18:00  
+                **比赛时间** : 2024年03月01日 09:00 - 2024年03月31日 18:00  
+                **其他说明** : 比赛时间2024年3月  
+                
             ??? Quote "[DubheCTF 2024](https://adworld.xctf.org.cn/contest/assess?hash=94938be6-ce42-11ee-ab28-000c29bc20bf)"  
                 **比赛名称** : [DubheCTF 2024](https://adworld.xctf.org.cn/contest/assess?hash=94938be6-ce42-11ee-ab28-000c29bc20bf)  
                 **比赛类型** : 团队赛 | 1-n  
@@ -677,7 +678,7 @@
                 **比赛名称** : [UNbreakable International 2024 - Individual Phase](https://unr24i-international.cyber-edu.co/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-03-22 18:00:00 - 2024-03-24 18:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : bitsentinel (https://ctftime.org/team/280005)  
                 **添加日历** : https://ctftime.org/event/2298.ics  
                 
