@@ -16,6 +16,24 @@
             **赛事主办** : b01lers (https://ctftime.org/team/11464)  
             **添加日历** : https://ctftime.org/event/2250.ics  
             
+        ??? Quote "[HackPack CTF 2024 - LLM edition](https://hackpack.club/ctf2024/)"  
+            [![](https://ctftime.org/media/events/Screenshot_2024-04-05_at_10.29.44.png){ width="200" align=left }](https://hackpack.club/ctf2024/)  
+            **比赛名称** : [HackPack CTF 2024 - LLM edition](https://hackpack.club/ctf2024/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-04-13 00:00:00 - 2024-04-13 23:59:59 UTC+8  
+            **比赛权重** : 32.71  
+            **赛事主办** : hackpack (https://ctftime.org/team/25905)  
+            **添加日历** : https://ctftime.org/event/2333.ics  
+            
+        ??? Quote "[ShunyaCTF Aarambha](https://shunya.ctf.eng.run/)"  
+            [![](https://ctftime.org/media/events/shunyaLogo.png){ width="200" align=left }](https://shunya.ctf.eng.run/)  
+            **比赛名称** : [ShunyaCTF Aarambha](https://shunya.ctf.eng.run/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-04-13 00:30:00 - 2024-04-14 12:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : nCreeps (https://ctftime.org/team/203035)  
+            **添加日历** : https://ctftime.org/event/2336.ics  
+            
         ??? Quote "[PlaidCTF 2024](https://plaidctf.com/)"  
             [![](https://ctftime.org){ width="200" align=left }](https://plaidctf.com/)  
             **比赛名称** : [PlaidCTF 2024](https://plaidctf.com/)  
@@ -24,22 +42,4 @@
             **比赛权重** : 95.19  
             **赛事主办** : Plaid Parliament of Pwning (https://ctftime.org/team/284)  
             **添加日历** : https://ctftime.org/event/2245.ics  
-            
-        ??? Quote "[Space Heroes 2024](https://spaceheroes.ctfd.io/)"  
-            [![](https://ctftime.org/media/events/moon.png){ width="200" align=left }](https://spaceheroes.ctfd.io/)  
-            **比赛名称** : [Space Heroes 2024](https://spaceheroes.ctfd.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-13 06:00:00 - 2024-04-15 06:00:00 UTC+8  
-            **比赛权重** : 24.50  
-            **赛事主办** : FITSEC (https://ctftime.org/team/65296)  
-            **添加日历** : https://ctftime.org/event/2254.ics  
-            
-        ??? Quote "[D^3CTF 2024](https://d3c.tf/)"  
-            [![](https://ctftime.org/media/events/ddd.png){ width="200" align=left }](https://d3c.tf/)  
-            **比赛名称** : [D^3CTF 2024](https://d3c.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-19 20:00:00 - 2024-04-21 20:00:00 UTC+8  
-            **比赛权重** : 39.40  
-            **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-            **添加日历** : https://ctftime.org/event/2276.ics  
             
