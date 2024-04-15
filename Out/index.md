@@ -575,15 +575,6 @@
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[b01lers CTF 2024](https://b01lersc.tf/)"  
-                [![](https://ctftime.org/media/events/b01lers-griffen_1.png){ width="200" align=left }](https://b01lersc.tf/)  
-                **比赛名称** : [b01lers CTF 2024](https://b01lersc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-13 07:00:00 - 2024-04-15 07:00:00 UTC+8  
-                **比赛权重** : 30.80  
-                **赛事主办** : b01lers (https://ctftime.org/team/11464)  
-                **添加日历** : https://ctftime.org/event/2250.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
@@ -646,6 +637,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : CybHackCTF (https://ctftime.org/team/278998)  
                 **添加日历** : https://ctftime.org/event/2344.ics  
+                
+            ??? Quote "[b01lers CTF 2024](https://b01lersc.tf/)"  
+                [![](https://ctftime.org/media/events/b01lers-griffen_1.png){ width="200" align=left }](https://b01lersc.tf/)  
+                **比赛名称** : [b01lers CTF 2024](https://b01lersc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-13 07:00:00 - 2024-04-15 07:00:00 UTC+8  
+                **比赛权重** : 30.80  
+                **赛事主办** : b01lers (https://ctftime.org/team/11464)  
+                **添加日历** : https://ctftime.org/event/2250.ics  
                 
             ??? Quote "[Space Heroes 2024](https://spaceheroes.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/moon.png){ width="200" align=left }](https://spaceheroes.ctfd.io/)  
@@ -1519,13 +1519,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : HacktorX (https://ctftime.org/team/274645)  
                 **添加日历** : https://ctftime.org/event/2174.ics  
-                
-            ??? Quote "[snakeCTF 2023](https://2023.snakectf.org/)"  
-                [![](https://ctftime.org/media/events/LogoCroppable.png){ width="200" align=left }](https://2023.snakectf.org/)  
-                **比赛名称** : [snakeCTF 2023](https://2023.snakectf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2023-12-09 17:00:00 - 2023-12-10 17:00:00 UTC+8  
-                **比赛权重** : 24.79  
-                **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
-                **添加日历** : https://ctftime.org/event/2158.ics  
                 
