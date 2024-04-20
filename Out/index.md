@@ -22,15 +22,6 @@
                 **其他说明** : 比赛时间未定  
                 
         === "国外赛事"
-            ??? Quote "[AVSS Contest 2024](https://avss.geekcon.top/)"  
-                [![](https://ctftime.org/media/events/AVSS.png){ width="200" align=left }](https://avss.geekcon.top/)  
-                **比赛名称** : [AVSS Contest 2024](https://avss.geekcon.top/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-20 10:00:00 - 2024-04-22 10:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : GEEKCON (https://ctftime.org/team/255059)  
-                **添加日历** : https://ctftime.org/event/2335.ics  
-                
             ??? Quote "[Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
                 **比赛名称** : [Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)  
@@ -556,6 +547,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : traP (https://ctftime.org/team/62510)  
                 **添加日历** : https://ctftime.org/event/2338.ics  
+                
+            ??? Quote "[AVSS Contest 2024](https://avss.geekcon.top/)"  
+                [![](https://ctftime.org/media/events/AVSS.png){ width="200" align=left }](https://avss.geekcon.top/)  
+                **比赛名称** : [AVSS Contest 2024](https://avss.geekcon.top/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-20 10:00:00 - 2024-04-22 10:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : GEEKCON (https://ctftime.org/team/255059)  
+                **添加日历** : https://ctftime.org/event/2335.ics  
                 
     === "*已经结束*"
         === "国内赛事"
