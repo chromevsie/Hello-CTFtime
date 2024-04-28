@@ -802,7 +802,7 @@
                 **比赛名称** : [CTF@CIT 2024](https://ctf.cyber-cit.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-04-20 05:00:00 - 2024-04-22 03:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.43  
                 **赛事主办** : HACK@CIT (https://ctftime.org/team/287896)  
                 **添加日历** : https://ctftime.org/event/2339.ics  
                 
@@ -1333,7 +1333,7 @@
                 **比赛名称** : [BroncoCTF 2024](http://broncoctf.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-02-18 03:00:00 - 2024-02-19 03:00:00 UTC+8  
-                **比赛权重** : 23.13  
+                **比赛权重** : 22.51  
                 **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
                 **添加日历** : https://ctftime.org/event/2261.ics  
                 
