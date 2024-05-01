@@ -525,13 +525,7 @@
                 
     === "*正在进行*"
         === "国内赛事"
-            ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
-                **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
-                **比赛类型** : 团队赛|1-3人  
-                **报名时间** : 2023年11月15日 00:00 - 2024年04月30日 00:00  
-                **比赛时间** : 2024年05月01日 00:00 - 2024年05月02日 00:00  
-                **其他说明** : 比赛时间未定  
-                
+    
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -542,17 +536,15 @@
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[MireaCTF Quals 2024](https://spring.mireactf.ru/)"  
-                [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23.png){ width="200" align=left }](https://spring.mireactf.ru/)  
-                **比赛名称** : [MireaCTF Quals 2024](https://spring.mireactf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-01 16:00:00 - 2024-05-02 00:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : cR4.sh (https://ctftime.org/team/224675)  
-                **添加日历** : https://ctftime.org/event/2367.ics  
-                
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
+                **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
+                **比赛类型** : 团队赛|1-3人  
+                **报名时间** : 2023年11月15日 00:00 - 2024年04月30日 00:00  
+                **比赛时间** : 2024年05月01日 00:00 - 2024年05月02日 00:00  
+                **其他说明** : 比赛时间未定  
+                
             ??? Quote "[第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)"  
                 **比赛名称** : [第一届“长城杯”信息安全铁人三项赛初赛](http://ccb.itsec.gov.cn/)  
                 **比赛类型** : 团队赛|1-4人  
@@ -568,6 +560,15 @@
                 **其他说明** : Discord: https://discord.gg/hq4m3KrVfG QQ群：512066352 本届DubheCTF2024由XCTF联赛的合作单位天枢Dubhe战队组织，由赛宁网安提供技术支持。作为第八届XCTF国际联赛的分站赛，本次比赛将采用在线网络安全夺旗挑战赛的形式，面向全球开放。 此次比赛冠军队伍将直接晋级第八届XCTF总决赛（总决赛具体地点待定，将在确定后通知获得资格的国际和国内队伍）。其他参赛的队伍也将获得积分，来竞争XCTF总决赛的其他席位。  
                 
         === "国外赛事"
+            ??? Quote "[MireaCTF Quals 2024](https://spring.mireactf.ru/)"  
+                [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23.png){ width="200" align=left }](https://spring.mireactf.ru/)  
+                **比赛名称** : [MireaCTF Quals 2024](https://spring.mireactf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-01 16:00:00 - 2024-05-02 00:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : cR4.sh (https://ctftime.org/team/224675)  
+                **添加日历** : https://ctftime.org/event/2367.ics  
+                
             ??? Quote "[Cybercoliseum Ⅲ](https://cybercoliseum.codeby.games/en)"  
                 [![](https://ctftime.org/media/events/logo-cdb.png){ width="200" align=left }](https://cybercoliseum.codeby.games/en)  
                 **比赛名称** : [Cybercoliseum Ⅲ](https://cybercoliseum.codeby.games/en)  
@@ -1458,13 +1459,4 @@
                 **比赛权重** : 97.04  
                 **赛事主办** : Chaitin Tech (https://ctftime.org/team/60371)  
                 **添加日历** : https://ctftime.org/event/2172.ics  
-                
-            ??? Quote "[4N0NYM0US3 2024](http://ctf.appinprogress.com/)"  
-                [![](https://ctftime.org){ width="200" align=left }](http://ctf.appinprogress.com/)  
-                **比赛名称** : [4N0NYM0US3 2024](http://ctf.appinprogress.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-01-21 13:04:43 - 2024-01-21 13:04:43 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : WyteHat (https://ctftime.org/team/231105)  
-                **添加日历** : https://ctftime.org/event/2232.ics  
                 
