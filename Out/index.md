@@ -536,15 +536,6 @@
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[LakeCTF Finals 23](https://lakectf.epfl.ch/)"  
-                [![](https://ctftime.org/media/events/lakeCTFLogo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
-                **比赛名称** : [LakeCTF Finals 23](https://lakectf.epfl.ch/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-03 16:00:00 - 2024-05-04 00:00:00 UTC+8  
-                **比赛权重** : 36.00  
-                **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
-                **添加日历** : https://ctftime.org/event/2246.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
@@ -569,6 +560,15 @@
                 **其他说明** : Discord: https://discord.gg/hq4m3KrVfG QQ群：512066352 本届DubheCTF2024由XCTF联赛的合作单位天枢Dubhe战队组织，由赛宁网安提供技术支持。作为第八届XCTF国际联赛的分站赛，本次比赛将采用在线网络安全夺旗挑战赛的形式，面向全球开放。 此次比赛冠军队伍将直接晋级第八届XCTF总决赛（总决赛具体地点待定，将在确定后通知获得资格的国际和国内队伍）。其他参赛的队伍也将获得积分，来竞争XCTF总决赛的其他席位。  
                 
         === "国外赛事"
+            ??? Quote "[LakeCTF Finals 23](https://lakectf.epfl.ch/)"  
+                [![](https://ctftime.org/media/events/lakeCTFLogo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
+                **比赛名称** : [LakeCTF Finals 23](https://lakectf.epfl.ch/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-03 16:00:00 - 2024-05-04 00:00:00 UTC+8  
+                **比赛权重** : 36.00  
+                **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
+                **添加日历** : https://ctftime.org/event/2246.ics  
+                
             ??? Quote "[MireaCTF Quals 2024](https://spring.mireactf.ru/)"  
                 [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23.png){ width="200" align=left }](https://spring.mireactf.ru/)  
                 **比赛名称** : [MireaCTF Quals 2024](https://spring.mireactf.ru/)  
@@ -1459,13 +1459,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : EN¢R¥PT_EDGE€ (https://ctftime.org/team/273673)  
                 **添加日历** : https://ctftime.org/event/2233.ics  
-                
-            ??? Quote "[Real World CTF 6th](https://realworldctf.com/)"  
-                [![](https://ctftime.org/media/events/rwctf.png){ width="200" align=left }](https://realworldctf.com/)  
-                **比赛名称** : [Real World CTF 6th](https://realworldctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-01-26 19:00:00 - 2024-01-28 19:00:00 UTC+8  
-                **比赛权重** : 97.04  
-                **赛事主办** : Chaitin Tech (https://ctftime.org/team/60371)  
-                **添加日历** : https://ctftime.org/event/2172.ics  
                 
