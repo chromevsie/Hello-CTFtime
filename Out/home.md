@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[TBTL CTF 2024](https://tbtl.ctfd.io/)"  
-            [![](https://ctftime.org/media/events/ctflogo_2.png){ width="200" align=left }](https://tbtl.ctfd.io/)  
-            **比赛名称** : [TBTL CTF 2024](https://tbtl.ctfd.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-05-11 06:00:00 - 2024-05-13 06:00:00 UTC+8  
-            **比赛权重** : 22.17  
-            **赛事主办** : TBTL (https://ctftime.org/team/170112)  
-            **添加日历** : https://ctftime.org/event/2324.ics  
-            
         ??? Quote "[San Diego CTF 2024](https://sdc.tf/)"  
             [![](https://ctftime.org){ width="200" align=left }](https://sdc.tf/)  
             **比赛名称** : [San Diego CTF 2024](https://sdc.tf/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
             **添加日历** : https://ctftime.org/event/2355.ics  
+            
+        ??? Quote "[BYUCTF 2024](https://ctfd.cyberjousting.com/)"  
+            [![](https://ctftime.org/media/events/cougar.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
+            **比赛名称** : [BYUCTF 2024](https://ctfd.cyberjousting.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-05-17 08:00:00 - 2024-05-19 08:00:00 UTC+8  
+            **比赛权重** : 30.75  
+            **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
+            **添加日历** : https://ctftime.org/event/2252.ics  
             
