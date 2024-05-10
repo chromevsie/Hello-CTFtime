@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[RPCA CTF 2024](https://ctf.rpca.ac.th/)"  
-            [![](https://ctftime.org/media/events/RPCACTF2024-Logo_page-0001.jpg){ width="200" align=left }](https://ctf.rpca.ac.th/)  
-            **比赛名称** : [RPCA CTF 2024](https://ctf.rpca.ac.th/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-05-11 01:00:00 - 2024-05-13 01:00:00 UTC+8  
-            **比赛权重** : 36.00  
-            **赛事主办** : RPCA Cyber Club (https://ctftime.org/team/132960)  
-            **添加日历** : https://ctftime.org/event/2352.ics  
-            
         ??? Quote "[TBTL CTF 2024](https://tbtl.ctfd.io/)"  
             [![](https://ctftime.org/media/events/ctflogo_2.png){ width="200" align=left }](https://tbtl.ctfd.io/)  
             **比赛名称** : [TBTL CTF 2024](https://tbtl.ctfd.io/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 100.00  
             **赛事主办** : RedRocket (https://ctftime.org/team/48677)  
             **添加日历** : https://ctftime.org/event/2224.ics  
+            
+        ??? Quote "[openECSC 2024 - Round 3](https://open.ecsc2024.it/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://open.ecsc2024.it/)  
+            **比赛名称** : [openECSC 2024 - Round 3](https://open.ecsc2024.it/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-05-13 18:00:00 - 2024-05-20 06:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
+            **添加日历** : https://ctftime.org/event/2355.ics  
             
