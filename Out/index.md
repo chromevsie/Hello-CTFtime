@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CyberSecurityRumble Quals](https://quals.rumble.host/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://quals.rumble.host/)  
-                **比赛名称** : [CyberSecurityRumble Quals](https://quals.rumble.host/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-11 21:00:00 - 2024-05-12 21:00:00 UTC+8  
-                **比赛权重** : 100.00  
-                **赛事主办** : RedRocket (https://ctftime.org/team/48677)  
-                **添加日历** : https://ctftime.org/event/2224.ics  
-                
             ??? Quote "[openECSC 2024 - Round 3](https://open.ecsc2024.it/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://open.ecsc2024.it/)  
                 **比赛名称** : [openECSC 2024 - Round 3](https://open.ecsc2024.it/)  
@@ -499,6 +490,15 @@
                 **比赛权重** : 24.67  
                 **赛事主办** : 3 Prongs And a Computer (https://ctftime.org/team/112558)  
                 **添加日历** : https://ctftime.org/event/2325.ics  
+                
+            ??? Quote "[CyberSecurityRumble Quals](https://quals.rumble.host/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://quals.rumble.host/)  
+                **比赛名称** : [CyberSecurityRumble Quals](https://quals.rumble.host/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-11 21:00:00 - 2024-05-12 21:00:00 UTC+8  
+                **比赛权重** : 100.00  
+                **赛事主办** : RedRocket (https://ctftime.org/team/48677)  
+                **添加日历** : https://ctftime.org/event/2224.ics  
                 
     === "*已经结束*"
         === "国内赛事"
