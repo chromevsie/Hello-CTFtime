@@ -500,15 +500,6 @@
                 **赛事主办** : 3 Prongs And a Computer (https://ctftime.org/team/112558)  
                 **添加日历** : https://ctftime.org/event/2325.ics  
                 
-            ??? Quote "[CyberSecurityRumble Quals](https://quals.rumble.host/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://quals.rumble.host/)  
-                **比赛名称** : [CyberSecurityRumble Quals](https://quals.rumble.host/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-11 21:00:00 - 2024-05-12 21:00:00 UTC+8  
-                **比赛权重** : 100.00  
-                **赛事主办** : RedRocket (https://ctftime.org/team/48677)  
-                **添加日历** : https://ctftime.org/event/2224.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
@@ -533,6 +524,15 @@
                 **其他说明** : Discord: https://discord.gg/hq4m3KrVfG QQ群：512066352 本届DubheCTF2024由XCTF联赛的合作单位天枢Dubhe战队组织，由赛宁网安提供技术支持。作为第八届XCTF国际联赛的分站赛，本次比赛将采用在线网络安全夺旗挑战赛的形式，面向全球开放。 此次比赛冠军队伍将直接晋级第八届XCTF总决赛（总决赛具体地点待定，将在确定后通知获得资格的国际和国内队伍）。其他参赛的队伍也将获得积分，来竞争XCTF总决赛的其他席位。  
                 
         === "国外赛事"
+            ??? Quote "[CyberSecurityRumble Quals](https://quals.rumble.host/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://quals.rumble.host/)  
+                **比赛名称** : [CyberSecurityRumble Quals](https://quals.rumble.host/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-11 21:00:00 - 2024-05-12 21:00:00 UTC+8  
+                **比赛权重** : 100.00  
+                **赛事主办** : RedRocket (https://ctftime.org/team/48677)  
+                **添加日历** : https://ctftime.org/event/2224.ics  
+                
             ??? Quote "[MireaCTF Finals 2024](https://spring.mireactf.ru/)"  
                 [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23_1.png){ width="200" align=left }](https://spring.mireactf.ru/)  
                 **比赛名称** : [MireaCTF Finals 2024](https://spring.mireactf.ru/)  
@@ -1423,13 +1423,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
                 **添加日历** : https://ctftime.org/event/2208.ics  
-                
-            ??? Quote "[ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.t3n4ci0us.kr/)  
-                **比赛名称** : [ESCAPE CTF Final](https://ctf.t3n4ci0us.kr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-02-03 20:00:00 - 2024-02-04 05:30:00 UTC+8  
-                **比赛权重** : 9.64  
-                **赛事主办** : CYB3R_T3N4CI0US (https://ctftime.org/team/160305)  
-                **添加日历** : https://ctftime.org/event/2213.ics  
                 
