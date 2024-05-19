@@ -410,15 +410,6 @@
                 **赛事主办** : Black Cell Secops (https://ctftime.org/team/270941)  
                 **添加日历** : https://ctftime.org/event/2135.ics  
                 
-            ??? Quote "[Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)"  
-                [![](https://ctftime.org/media/events/logo_99.png){ width="200" align=left }](https://bts2024.wh.edu.pl/)  
-                **比赛名称** : [Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-18 00:00:00 - 2024-05-19 18:00:00 UTC+8  
-                **比赛权重** : 28.30  
-                **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
-                **添加日历** : https://ctftime.org/event/2289.ics  
-                
             ??? Quote "[TJCTF 2024](https://tjctf.org/)"  
                 [![](https://ctftime.org/media/events/logo_96.png){ width="200" align=left }](https://tjctf.org/)  
                 **比赛名称** : [TJCTF 2024](https://tjctf.org/)  
@@ -480,6 +471,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Hacky'Nov (https://ctftime.org/team/178939)  
                 **添加日历** : https://ctftime.org/event/2319.ics  
+                
+            ??? Quote "[Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)"  
+                [![](https://ctftime.org/media/events/logo_99.png){ width="200" align=left }](https://bts2024.wh.edu.pl/)  
+                **比赛名称** : [Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-18 00:00:00 - 2024-05-19 18:00:00 UTC+8  
+                **比赛权重** : 28.30  
+                **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
+                **添加日历** : https://ctftime.org/event/2289.ics  
                 
             ??? Quote "[BYUCTF 2024](https://ctfd.cyberjousting.com/)"  
                 [![](https://ctftime.org/media/events/cougar.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
@@ -1362,13 +1362,4 @@
                 **比赛权重** : 2.80  
                 **赛事主办** : Pragyan (https://ctftime.org/team/33867)  
                 **添加日历** : https://ctftime.org/event/2266.ics  
-                
-            ??? Quote "[SAIBORG - Elite Hacking Competition](https://www.saiborg.io/)"  
-                [![](https://ctftime.org/media/events/saiborg-profile.jpg){ width="200" align=left }](https://www.saiborg.io/)  
-                **比赛名称** : [SAIBORG - Elite Hacking Competition](https://www.saiborg.io/)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2024-02-16 12:00:00 - 2024-02-16 18:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Saiborg (https://ctftime.org/team/271868)  
-                **添加日历** : https://ctftime.org/event/2147.ics  
                 
