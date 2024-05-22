@@ -392,15 +392,6 @@
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
-                **比赛名称** : [HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-18 21:00:00 - 2024-05-22 21:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
-                **添加日历** : https://ctftime.org/event/2315.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
@@ -435,6 +426,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Hacky'Nov (https://ctftime.org/team/178939)  
                 **添加日历** : https://ctftime.org/event/2319.ics  
+                
+            ??? Quote "[HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
+                **比赛名称** : [HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-18 21:00:00 - 2024-05-22 21:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
+                **添加日历** : https://ctftime.org/event/2315.ics  
                 
             ??? Quote "[SAS CTF 2024 Quals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS24_2.png){ width="200" align=left }](https://ctf.thesascon.com/)  
@@ -1308,13 +1308,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Jeanne d'Hack CTF (https://ctftime.org/team/283058)  
                 **添加日历** : https://ctftime.org/event/2311.ics  
-                
-            ??? Quote "[VishwaCTF 2024](https://vishwactf.com/)"  
-                [![](https://ctftime.org/media/events/VishwaCTF_3.png){ width="200" align=left }](https://vishwactf.com/)  
-                **比赛名称** : [VishwaCTF 2024](https://vishwactf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-01 18:30:00 - 2024-03-03 18:29:59 UTC+8  
-                **比赛权重** : 33.43  
-                **赛事主办** : CyberCellVIIT (https://ctftime.org/team/144677)  
-                **添加日历** : https://ctftime.org/event/2272.ics  
                 
