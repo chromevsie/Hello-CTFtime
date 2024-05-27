@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Dreamhack Invitational 2024](https://dreamhack.io/)"  
-            [![](https://ctftime.org/media/events/_mini_round_light2x_1.png){ width="200" align=left }](https://dreamhack.io/)  
-            **比赛名称** : [Dreamhack Invitational 2024](https://dreamhack.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-05-27 09:00:00 - 2024-05-27 21:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Theori (https://ctftime.org/team/250867)  
-            **添加日历** : https://ctftime.org/event/2309.ics  
-            
         ??? Quote "[GPN CTF 2024](https://ctf.kitctf.de/)"  
             [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d.png){ width="200" align=left }](https://ctf.kitctf.de/)  
             **比赛名称** : [GPN CTF 2024](https://ctf.kitctf.de/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 34.00  
             **赛事主办** : View Source (https://ctftime.org/team/175828)  
             **添加日历** : https://ctftime.org/event/2248.ics  
+            
+        ??? Quote "[Codegate CTF 2024 Preliminary](http://ctf.codegate.org/)"  
+            [![](https://ctftime.org){ width="200" align=left }](http://ctf.codegate.org/)  
+            **比赛名称** : [Codegate CTF 2024 Preliminary](http://ctf.codegate.org/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-06-01 09:00:00 - 2024-06-02 09:00:00 UTC+8  
+            **比赛权重** : 36.58  
+            **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
+            **添加日历** : https://ctftime.org/event/2346.ics  
             
