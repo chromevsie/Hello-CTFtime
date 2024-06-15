@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://play.midnightsunctf.com/)  
-                **比赛名称** : [Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-15 18:00:00 - 2024-06-16 18:00:00 UTC+8  
-                **比赛权重** : 100.00  
-                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-                **添加日历** : https://ctftime.org/event/2409.ics  
-                
             ??? Quote "[Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)"  
                 [![](https://ctftime.org/media/events/kryptokaffe2k24.png){ width="200" align=left }](https://www.kryptokaffe.se/)  
                 **比赛名称** : [Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)  
@@ -391,6 +382,15 @@
                 **比赛权重** : 77.17  
                 **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
                 **添加日历** : https://ctftime.org/event/2342.ics  
+                
+            ??? Quote "[Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://play.midnightsunctf.com/)  
+                **比赛名称** : [Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-06-15 18:00:00 - 2024-06-16 18:00:00 UTC+8  
+                **比赛权重** : 100.00  
+                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+                **添加日历** : https://ctftime.org/event/2409.ics  
                 
     === "*已经结束*"
         === "国内赛事"
