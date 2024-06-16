@@ -365,15 +365,6 @@
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://play.midnightsunctf.com/)  
-                **比赛名称** : [Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-15 18:00:00 - 2024-06-16 18:00:00 UTC+8  
-                **比赛权重** : 100.00  
-                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-                **添加日历** : https://ctftime.org/event/2409.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
@@ -384,6 +375,15 @@
                 **其他说明** : 比赛时间未定  
                 
         === "国外赛事"
+            ??? Quote "[Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://play.midnightsunctf.com/)  
+                **比赛名称** : [Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-06-15 18:00:00 - 2024-06-16 18:00:00 UTC+8  
+                **比赛权重** : 100.00  
+                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+                **添加日历** : https://ctftime.org/event/2409.ics  
+                
             ??? Quote "[justCTF 2024 teaser](http://2024.justctf.team/)"  
                 [![](https://ctftime.org/media/events/logo-ctf_3.png){ width="200" align=left }](http://2024.justctf.team/)  
                 **比赛名称** : [justCTF 2024 teaser](http://2024.justctf.team/)  
@@ -1274,13 +1274,4 @@
                 **比赛权重** : 23.89  
                 **赛事主办** : UTD TexSAW (https://ctftime.org/team/220408)  
                 **添加日历** : https://ctftime.org/event/2281.ics  
-                
-            ??? Quote "[Undutmaning 2024](https://undutmaning.se/)"  
-                [![](https://ctftime.org/media/events/LOGO_DISCORD.png){ width="200" align=left }](https://undutmaning.se/)  
-                **比赛名称** : [Undutmaning 2024](https://undutmaning.se/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-23 20:00:00 - 2024-03-24 04:00:00 UTC+8  
-                **比赛权重** : 24.50  
-                **赛事主办** : Undutmaning (https://ctftime.org/team/212504)  
-                **添加日历** : https://ctftime.org/event/2283.ics  
                 
