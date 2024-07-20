@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
-                **比赛名称** : [pbctf 2024](https://ctf.perfect.blue/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-07-20 22:00:00 - 2024-07-21 22:00:00 UTC+8  
-                **比赛权重** : 55.00  
-                **赛事主办** : perfect blue (https://ctftime.org/team/53802)  
-                **添加日历** : https://ctftime.org/event/2381.ics  
-                
             ??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
                 [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
                 **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
@@ -454,6 +445,15 @@
                 **比赛权重** : 98.89  
                 **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
                 **添加日历** : https://ctftime.org/event/2412.ics  
+                
+            ??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
+                **比赛名称** : [pbctf 2024](https://ctf.perfect.blue/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-07-20 22:00:00 - 2024-07-21 22:00:00 UTC+8  
+                **比赛权重** : 55.00  
+                **赛事主办** : perfect blue (https://ctftime.org/team/53802)  
+                **添加日历** : https://ctftime.org/event/2381.ics  
                 
     === "*已经结束*"
         === "国内赛事"
