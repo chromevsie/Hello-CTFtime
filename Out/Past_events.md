@@ -49,7 +49,7 @@ comments: true
     **比赛名称** : [MOCA CTF - Quals](https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-07-20 17:00:00 - 2024-07-21 17:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : Metro Olografix (https://ctftime.org/team/268425)  
     **添加日历** : https://ctftime.org/event/2293.ics  
     
@@ -85,7 +85,7 @@ comments: true
     **比赛名称** : [OSCTF](https://ctf.os.ftp.sh/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-07-13 08:30:00 - 2024-07-14 00:30:00 UTC+8  
-    **比赛权重** : 23.11  
+    **比赛权重** : 23.23  
     **赛事主办** : OSCTF (https://ctftime.org/team/307415)  
     **添加日历** : https://ctftime.org/event/2416.ics  
     
@@ -355,7 +355,7 @@ comments: true
     **比赛名称** : [N0PSctf](https://ctf.nops.re/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-06-01 16:00:00 - 2024-06-03 04:00:00 UTC+8  
-    **比赛权重** : 24.23  
+    **比赛权重** : 24.26  
     **赛事主办** : NOPS (https://ctftime.org/team/4056)  
     **添加日历** : https://ctftime.org/event/2358.ics  
     
@@ -454,7 +454,7 @@ comments: true
     **比赛名称** : [L3akCTF 2024](https://ctf.l3ak.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-05-24 20:00:00 - 2024-05-26 20:00:00 UTC+8  
-    **比赛权重** : 24.39  
+    **比赛权重** : 24.41  
     **赛事主办** : L3ak (https://ctftime.org/team/220336)  
     **添加日历** : https://ctftime.org/event/2322.ics  
     
