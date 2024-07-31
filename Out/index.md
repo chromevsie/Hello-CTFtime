@@ -401,6 +401,10 @@
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[SCAN 2024 Digital Asset Tracing Challenge](https://scanctf2024.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/Logo_blue2x.png){ width="200" align=left }](https://scanctf2024.ctfd.io/)  
                 **比赛名称** : [SCAN 2024 Digital Asset Tracing Challenge](https://scanctf2024.ctfd.io/)  
@@ -410,10 +414,6 @@
                 **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
                 **添加日历** : https://ctftime.org/event/2442.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[corCTF 2024](https://ctf.cor.team/)"  
                 [![](https://ctftime.org/media/events/corctflogo_3.png){ width="200" align=left }](https://ctf.cor.team/)  
                 **比赛名称** : [corCTF 2024](https://ctf.cor.team/)  
@@ -1304,13 +1304,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : traP (https://ctftime.org/team/62510)  
                 **添加日历** : https://ctftime.org/event/2338.ics  
-                
-            ??? Quote "[UMassCTF 2024](https://ctf.umasscybersec.org/)"  
-                [![](https://ctftime.org/media/events/CTF_LOGO_20240401_190034_0000.png){ width="200" align=left }](https://ctf.umasscybersec.org/)  
-                **比赛名称** : [UMassCTF 2024](https://ctf.umasscybersec.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-20 06:00:00 - 2024-04-22 06:00:00 UTC+8  
-                **比赛权重** : 43.10  
-                **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
-                **添加日历** : https://ctftime.org/event/2287.ics  
                 
