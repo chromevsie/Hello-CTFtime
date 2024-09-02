@@ -76,7 +76,7 @@ comments: true
     **比赛名称** : [idekCTF 2024](https://ctf.idek.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-08-17 08:00:00 - 2024-08-19 08:00:00 UTC+8  
-    **比赛权重** : 52.16  
+    **比赛权重** : 52.09  
     **赛事主办** : idek (https://ctftime.org/team/157039)  
     **添加日历** : https://ctftime.org/event/2304.ics  
     
@@ -778,7 +778,7 @@ comments: true
     **比赛名称** : [squ1rrel CTF 2024](https://ctf.squ1rrel.dev/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-05-04 23:00:00 - 2024-05-06 11:00:00 UTC+8  
-    **比赛权重** : 24.19  
+    **比赛权重** : 24.21  
     **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
     **添加日历** : https://ctftime.org/event/2370.ics  
     
