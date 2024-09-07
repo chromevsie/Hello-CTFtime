@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[WMCTF2024](https://wmctf.wm-team.cn/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://wmctf.wm-team.cn/)  
-            **比赛名称** : [WMCTF2024](https://wmctf.wm-team.cn/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-09-07 09:00:00 - 2024-09-09 09:00:00 UTC+8  
-            **比赛权重** : 53.88  
-            **赛事主办** : W&M (https://ctftime.org/team/54666)  
-            **添加日历** : https://ctftime.org/event/2457.ics  
-            
         ??? Quote "[HackTheDrone CTF Qualifier](http://hackthedrone.org/eng/ctf.php)"  
             [![](https://ctftime.org/media/events/hackthedrone.png){ width="200" align=left }](http://hackthedrone.org/eng/ctf.php)  
             **比赛名称** : [HackTheDrone CTF Qualifier](http://hackthedrone.org/eng/ctf.php)  
@@ -36,4 +27,13 @@
             **比赛权重** : 24.27  
             **赛事主办** : UCG (https://ctftime.org/team/255103)  
             **添加日历** : https://ctftime.org/event/2460.ics  
+            
+        ??? Quote "[DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)"  
+            [![](https://ctftime.org/media/events/image_31.png){ width="200" align=left }](https://thedfirreport.com/services/dfir-labs/ctf/)  
+            **比赛名称** : [DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-09-08 00:00:00 - 2024-09-08 04:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
+            **添加日历** : https://ctftime.org/event/2451.ics  
             
