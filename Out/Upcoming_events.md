@@ -18,6 +18,15 @@ comments: true
     **赛事主办** : Competitive Cyber at Mason (https://ctftime.org/team/176906)  
     **添加日历** : https://ctftime.org/event/2426.ics  
     
+??? Quote "[BlazCTF 2024](https://ctf.blaz.ai/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctf.blaz.ai/)  
+    **比赛名称** : [BlazCTF 2024](https://ctf.blaz.ai/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-09-21 09:00:00 - 2024-09-23 09:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : FuzzLand (https://ctftime.org/team/270659)  
+    **添加日历** : https://ctftime.org/event/2492.ics  
+    
 ??? Quote "[Cyber Jawara International](https://cyberjawara.id/2024)"  
     [![](https://ctftime.org/media/events/067297e97f084c5492331b121d1b0507.png){ width="200" align=left }](https://cyberjawara.id/2024)  
     **比赛名称** : [Cyber Jawara International](https://cyberjawara.id/2024)  
@@ -62,6 +71,33 @@ comments: true
     **比赛权重** : 66.25  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2211.ics  
+    
+??? Quote "[Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
+    **比赛名称** : [Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-09-22 12:00:00 - 2024-09-22 16:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+    **添加日历** : https://ctftime.org/event/2493.ics  
+    
+??? Quote "[H7CTF International](https://ctf.h7tex.com/)"  
+    [![](https://ctftime.org/media/events/1_3.png){ width="200" align=left }](https://ctf.h7tex.com/)  
+    **比赛名称** : [H7CTF International](https://ctf.h7tex.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-09-26 11:30:00 - 2024-09-27 19:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+    **添加日历** : https://ctftime.org/event/2491.ics  
+    
+??? Quote "[Haruulzangi CTF 2024 Finals](https://dashboard.haruulzangi.mn/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
+    **比赛名称** : [Haruulzangi CTF 2024 Finals](https://dashboard.haruulzangi.mn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-09-26 12:00:00 - 2024-09-26 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+    **添加日历** : https://ctftime.org/event/2494.ics  
     
 ??? Quote "[DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)"  
     [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom.png){ width="200" align=left }](https://dctf24-quals.cyber-edu.co/)  
