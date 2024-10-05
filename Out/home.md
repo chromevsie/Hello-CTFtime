@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)"  
-            [![](https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg){ width="200" align=left }](https://ctf.ewi.tudelft.nl/)  
-            **比赛名称** : [TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 02:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : TU Delft CTF Team (https://ctftime.org/team/134822)  
-            **添加日历** : https://ctftime.org/event/2487.ics  
-            
-        ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
-            [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
-            **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8  
-            **比赛权重** : 25.00  
-            **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
-            **添加日历** : https://ctftime.org/event/2389.ics  
-            
         ??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.team/tcp1pctf-2024)"  
             [![](https://ctftime.org/media/events/Asset_10.jpg){ width="200" align=left }](https://tcp1p.team/tcp1pctf-2024)  
             **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.team/tcp1pctf-2024)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0  
             **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
             **添加日历** : https://ctftime.org/event/2500.ics  
+            
+        ??? Quote "[Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)"  
+            [![](https://ctftime.org/media/events/HausDerFlaggen_Plakat_1080_x_1080_px.png){ width="200" align=left }](https://laokoon-security.com/ctf2024)  
+            **比赛名称** : [Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-10-12 16:00:00 - 2024-10-13 02:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Laokoon SecurITy (https://ctftime.org/team/201667)  
+            **添加日历** : https://ctftime.org/event/2436.ics  
+            
+        ??? Quote "[Blue Water CTF 2024](https://ctf.perfect.blue/)"  
+            [![](https://ctftime.org/media/events/4872c3c168bd1cdeb5dc564bb3a0416f.png){ width="200" align=left }](https://ctf.perfect.blue/)  
+            **比赛名称** : [Blue Water CTF 2024](https://ctf.perfect.blue/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-10-12 22:00:00 - 2024-10-14 10:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : 💦​ (https://ctftime.org/team/205897)  
+            **添加日历** : https://ctftime.org/event/2479.ics  
             
