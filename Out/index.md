@@ -518,6 +518,10 @@
                 **赛事主办** : HackerDom (https://ctftime.org/team/552)  
                 **添加日历** : https://ctftime.org/event/2386.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
                 [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
                 **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
@@ -527,10 +531,6 @@
                 **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
                 **添加日历** : https://ctftime.org/event/2389.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)"  
                 [![](https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg){ width="200" align=left }](https://ctf.ewi.tudelft.nl/)  
                 **比赛名称** : [TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)  
@@ -572,7 +572,7 @@
                 **比赛名称** : [justCTF 2024 finals](https://2024finals.justctf.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-09-28 18:00:00 - 2024-09-29 18:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
                 **添加日历** : https://ctftime.org/event/2484.ics  
                 
@@ -1421,13 +1421,4 @@
                 **比赛权重** : 36.58  
                 **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
                 **添加日历** : https://ctftime.org/event/2346.ics  
-                
-            ??? Quote "[Hardwear.io USA 2024 Hardware CTF](https://hwctf.quarkslab.com/)"  
-                [![](https://ctftime.org/media/events/logohwcolor_13.png){ width="200" align=left }](https://hwctf.quarkslab.com/)  
-                **比赛名称** : [Hardwear.io USA 2024 Hardware CTF](https://hwctf.quarkslab.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-01 01:00:00 - 2024-06-02 04:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hardware CTF by Quarkslab (https://ctftime.org/team/274600)  
-                **添加日历** : https://ctftime.org/event/2400.ics  
                 
