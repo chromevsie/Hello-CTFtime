@@ -536,15 +536,6 @@
                 **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
                 **添加日历** : https://ctftime.org/event/2379.ics  
                 
-            ??? Quote "[Hack.lu CTF 2024](https://flu.xxx/)"  
-                [![](https://ctftime.org/media/events/logo-small.png){ width="200" align=left }](https://flu.xxx/)  
-                **比赛名称** : [Hack.lu CTF 2024](https://flu.xxx/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-19 02:00:00 - 2024-10-21 02:00:00 UTC+8  
-                **比赛权重** : 100.00  
-                **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
-                **添加日历** : https://ctftime.org/event/2438.ics  
-                
             ??? Quote "[SunshineCTF 2024](https://sunshinectf.org/)"  
                 [![](https://ctftime.org/media/events/sctf_logo_24.png){ width="200" align=left }](https://sunshinectf.org/)  
                 **比赛名称** : [SunshineCTF 2024](https://sunshinectf.org/)  
@@ -558,6 +549,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[Hack.lu CTF 2024](https://flu.xxx/)"  
+                [![](https://ctftime.org/media/events/logo-small.png){ width="200" align=left }](https://flu.xxx/)  
+                **比赛名称** : [Hack.lu CTF 2024](https://flu.xxx/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-19 02:00:00 - 2024-10-21 02:00:00 UTC+8  
+                **比赛权重** : 100.00  
+                **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
+                **添加日历** : https://ctftime.org/event/2438.ics  
+                
             ??? Quote "[DEADFACE CTF 2024](https://ctf.deadface.io/)"  
                 [![](https://ctftime.org/media/events/logo_deadface_ctf_2024.png){ width="200" align=left }](https://ctf.deadface.io/)  
                 **比赛名称** : [DEADFACE CTF 2024](https://ctf.deadface.io/)  
@@ -1448,13 +1448,4 @@
                 **比赛权重** : 100.00  
                 **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
                 **添加日历** : https://ctftime.org/event/2409.ics  
-                
-            ??? Quote "[justCTF 2024 teaser](http://2024.justctf.team/)"  
-                [![](https://ctftime.org/media/events/logo-ctf_3.png){ width="200" align=left }](http://2024.justctf.team/)  
-                **比赛名称** : [justCTF 2024 teaser](http://2024.justctf.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-15 16:00:00 - 2024-06-16 16:00:00 UTC+8  
-                **比赛权重** : 77.17  
-                **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
-                **添加日历** : https://ctftime.org/event/2342.ics  
                 
