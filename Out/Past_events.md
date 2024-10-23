@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[Questcon CTF](https://questcon.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/Picsart_24-10-01_16-40-39-530_1_1.png){ width="200" align=left }](https://questcon.ctfd.io/)  
+    **比赛名称** : [Questcon CTF](https://questcon.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-10-22 14:30:00 - 2024-10-23 14:30:00 UTC+8  
+    **比赛权重** : 22.45  
+    **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
+    **添加日历** : https://ctftime.org/event/2505.ics  
+    
 ??? Quote "[SAS CTF 2024 Finals](https://ctf.thesascon.com/)"  
     [![](https://ctftime.org/media/events/SAS24_2_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
     **比赛名称** : [SAS CTF 2024 Finals](https://ctf.thesascon.com/)  
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
     **添加日历** : https://ctftime.org/event/2366.ics  
-    
-??? Quote "[Wani CTF 2024](https://wanictf.org/)"  
-    [![](https://ctftime.org/media/events/wani_ctf_logo.png){ width="200" align=left }](https://wanictf.org/)  
-    **比赛名称** : [Wani CTF 2024](https://wanictf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-06-21 20:00:00 - 2024-06-23 20:00:00 UTC+8  
-    **比赛权重** : 24.99  
-    **赛事主办** : Wani Hackase (https://ctftime.org/team/70717)  
-    **添加日历** : https://ctftime.org/event/2377.ics  
     
