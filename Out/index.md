@@ -464,6 +464,10 @@
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[RedShift.Eclipse 2 Quals](https://quals.o1d-bu7-go1d.ru/)"  
                 [![](https://ctftime.org/media/events/IMG_5703.JPG){ width="200" align=left }](https://quals.o1d-bu7-go1d.ru/)  
                 **比赛名称** : [RedShift.Eclipse 2 Quals](https://quals.o1d-bu7-go1d.ru/)  
@@ -473,10 +477,6 @@
                 **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
                 **添加日历** : https://ctftime.org/event/2541.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[AlpacaHack Round 6 (Pwn)](https://alpacahack.com/ctfs/round-6)"  
                 [![](https://ctftime.org/media/events/ctftime_7.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-6)  
                 **比赛名称** : [AlpacaHack Round 6 (Pwn)](https://alpacahack.com/ctfs/round-6)  
@@ -1367,13 +1367,4 @@
                 **比赛权重** : 55.00  
                 **赛事主办** : Crusaders of Rust (https://ctftime.org/team/132628)  
                 **添加日历** : https://ctftime.org/event/2282.ics  
-                
-            ??? Quote "[DeadSec CTF 2024](https://deadsec.ctf.ae/)"  
-                [![](https://ctftime.org/media/events/Picture1_1.png){ width="200" align=left }](https://deadsec.ctf.ae/)  
-                **比赛名称** : [DeadSec CTF 2024](https://deadsec.ctf.ae/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-07-27 04:00:00 - 2024-07-28 16:00:00 UTC+8  
-                **比赛权重** : 23.96  
-                **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
-                **添加日历** : https://ctftime.org/event/2353.ics  
                 
