@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)"  
-            [![](https://ctftime.org/media/events/Bild_1.png){ width="200" align=left }](http://ctf.gematik.de/)  
-            **比赛名称** : [Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-11-15 17:00:00 - 2024-11-16 01:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : H34lthineer (https://ctftime.org/team/170109)  
-            **添加日历** : https://ctftime.org/event/2481.ics  
-            
         ??? Quote "[1337UP LIVE CTF](https://ctf.intigriti.io/)"  
             [![](https://ctftime.org/media/events/intigriti_icon_cmyk_navy.png){ width="200" align=left }](https://ctf.intigriti.io/)  
             **比赛名称** : [1337UP LIVE CTF](https://ctf.intigriti.io/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 25.00  
             **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
             **添加日历** : https://ctftime.org/event/2521.ics  
+            
+        ??? Quote "[Crate-CTF 2024](https://foi.se/cratectf)"  
+            [![](https://ctftime.org/media/events/crate-ctf-2024.png){ width="200" align=left }](https://foi.se/cratectf)  
+            **比赛名称** : [Crate-CTF 2024](https://foi.se/cratectf)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-11-16 21:00:00 - 2024-11-17 05:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
+            **添加日历** : https://ctftime.org/event/2489.ics  
             
