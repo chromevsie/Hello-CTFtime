@@ -10,24 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
-                **比赛名称** : [iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-17 02:00:00 - 2024-11-23 08:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Shellphish (https://ctftime.org/team/285)  
-                **添加日历** : https://ctftime.org/event/2565.ics  
-                
-            ??? Quote "[iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
-                **比赛名称** : [iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-17 02:00:00 - 2024-11-23 08:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Shellphish (https://ctftime.org/team/285)  
-                **添加日历** : https://ctftime.org/event/2566.ics  
-                
             ??? Quote "[GlacierCTF 2024](https://glacierctf.com/)"  
                 [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa_1.png){ width="200" align=left }](https://glacierctf.com/)  
                 **比赛名称** : [GlacierCTF 2024](https://glacierctf.com/)  
@@ -455,15 +437,6 @@
                 **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
                 **添加日历** : https://ctftime.org/event/2574.ics  
                 
-            ??? Quote "[BRICS+ CTF Finals 2024](https://brics-ctf.com/)"  
-                [![](https://ctftime.org/media/events/brics-logo-2024-square.png){ width="200" align=left }](https://brics-ctf.com/)  
-                **比赛名称** : [BRICS+ CTF Finals 2024](https://brics-ctf.com/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-11-16 18:00:00 - 2024-11-17 02:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
-                **添加日历** : https://ctftime.org/event/2521.ics  
-                
             ??? Quote "[Crate-CTF 2024](https://foi.se/cratectf)"  
                 [![](https://ctftime.org/media/events/crate-ctf-2024.png){ width="200" align=left }](https://foi.se/cratectf)  
                 **比赛名称** : [Crate-CTF 2024](https://foi.se/cratectf)  
@@ -473,10 +446,37 @@
                 **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
                 **添加日历** : https://ctftime.org/event/2489.ics  
                 
+            ??? Quote "[iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
+                **比赛名称** : [iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-17 02:00:00 - 2024-11-23 08:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Shellphish (https://ctftime.org/team/285)  
+                **添加日历** : https://ctftime.org/event/2565.ics  
+                
+            ??? Quote "[iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
+                **比赛名称** : [iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-17 02:00:00 - 2024-11-23 08:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Shellphish (https://ctftime.org/team/285)  
+                **添加日历** : https://ctftime.org/event/2566.ics  
+                
     === "*已经结束*"
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[BRICS+ CTF Finals 2024](https://brics-ctf.com/)"  
+                [![](https://ctftime.org/media/events/brics-logo-2024-square.png){ width="200" align=left }](https://brics-ctf.com/)  
+                **比赛名称** : [BRICS+ CTF Finals 2024](https://brics-ctf.com/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2024-11-16 18:00:00 - 2024-11-17 02:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
+                **添加日历** : https://ctftime.org/event/2521.ics  
+                
             ??? Quote "[PwnSec CTF 2024](https://ctf.pwnsec.xyz/)"  
                 [![](https://ctftime.org/media/events/Logo_12.png){ width="200" align=left }](https://ctf.pwnsec.xyz/)  
                 **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
@@ -1367,13 +1367,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
                 **添加日历** : https://ctftime.org/event/2430.ics  
-                
-            ??? Quote "[AlpacaHack Round 2 (Web)](https://alpacahack.com/ctfs/round-2)"  
-                [![](https://ctftime.org/media/events/dark_512.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-2)  
-                **比赛名称** : [AlpacaHack Round 2 (Web)](https://alpacahack.com/ctfs/round-2)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-01 11:00:00 - 2024-09-01 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-                **添加日历** : https://ctftime.org/event/2465.ics  
                 

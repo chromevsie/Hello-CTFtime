@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
-            **比赛名称** : [iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-11-17 02:00:00 - 2024-11-23 08:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Shellphish (https://ctftime.org/team/285)  
-            **添加日历** : https://ctftime.org/event/2565.ics  
-            
-        ??? Quote "[iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
-            **比赛名称** : [iCTF 2024 (Highschool)](https://ictf.cs.ucsb.edu/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-11-17 02:00:00 - 2024-11-23 08:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Shellphish (https://ctftime.org/team/285)  
-            **添加日历** : https://ctftime.org/event/2566.ics  
-            
         ??? Quote "[GlacierCTF 2024](https://glacierctf.com/)"  
             [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa_1.png){ width="200" align=left }](https://glacierctf.com/)  
             **比赛名称** : [GlacierCTF 2024](https://glacierctf.com/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : Hackvens (https://ctftime.org/team/194092)  
             **添加日历** : https://ctftime.org/event/2401.ics  
+            
+        ??? Quote "[SECCON CTF 13 Quals](https://ctf.seccon.jp/)"  
+            [![](https://ctftime.org/media/events/seccon_s_7.png){ width="200" align=left }](https://ctf.seccon.jp/)  
+            **比赛名称** : [SECCON CTF 13 Quals](https://ctf.seccon.jp/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-11-23 13:00:00 - 2024-11-24 13:00:00 UTC+8  
+            **比赛权重** : 100.00  
+            **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
+            **添加日历** : https://ctftime.org/event/2478.ics  
+            
+        ??? Quote "[WP CTF 2024](https://wpctf.it/)"  
+            [![](https://ctftime.org/media/events/WP_CTF_logo.png){ width="200" align=left }](https://wpctf.it/)  
+            **比赛名称** : [WP CTF 2024](https://wpctf.it/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-11-23 16:00:00 - 2024-11-24 00:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : WP CTF (https://ctftime.org/team/303099)  
+            **添加日历** : https://ctftime.org/event/2395.ics  
             
