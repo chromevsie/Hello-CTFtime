@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[snakeCTF 2024 Finals](https://2024.snakectf.org/)"  
-            [![](https://ctftime.org/media/events/LogoCroppable_2.png){ width="200" align=left }](https://2024.snakectf.org/)  
-            **比赛名称** : [snakeCTF 2024 Finals](https://2024.snakectf.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-12-05 16:00:00 - 2024-12-08 16:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
-            **添加日历** : https://ctftime.org/event/2419.ics  
-            
         ??? Quote "[ISITDTU CTF 2024 Finals](https://ctf.isitdtu.com/)"  
             [![](https://ctftime.org/media/events/index_3.gif){ width="200" align=left }](https://ctf.isitdtu.com/)  
             **比赛名称** : [ISITDTU CTF 2024 Finals](https://ctf.isitdtu.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 24.75  
             **赛事主办** : Platypwnies (https://ctftime.org/team/112550)  
             **添加日历** : https://ctftime.org/event/2407.ics  
+            
+        ??? Quote "[DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://thedfirreport.com/services/dfir-labs/ctf/)  
+            **比赛名称** : [DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-12-08 00:00:00 - 2024-12-08 04:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
+            **添加日历** : https://ctftime.org/event/2488.ics  
             
