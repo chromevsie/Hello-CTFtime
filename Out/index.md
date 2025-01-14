@@ -212,15 +212,6 @@
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
-            ??? Quote "[New Year CTF 2025](http://ctf-spcs.mf.grsu.by/)"  
-                [![](https://ctftime.org/media/events/NY2025.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
-                **比赛名称** : [New Year CTF 2025](http://ctf-spcs.mf.grsu.by/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-13 01:00:00 - 2025-01-15 01:00:00 UTC+8  
-                **比赛权重** : 23.13  
-                **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
-                **添加日历** : https://ctftime.org/event/2582.ics  
-                
             ??? Quote "[TSCCTF 2025](https://ctfd.tscctf.com/)"  
                 [![](https://ctftime.org/media/events/TSC_logo_extra_large.png){ width="200" align=left }](https://ctfd.tscctf.com/)  
                 **比赛名称** : [TSCCTF 2025](https://ctfd.tscctf.com/)  
@@ -234,6 +225,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[New Year CTF 2025](http://ctf-spcs.mf.grsu.by/)"  
+                [![](https://ctftime.org/media/events/NY2025.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
+                **比赛名称** : [New Year CTF 2025](http://ctf-spcs.mf.grsu.by/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-13 01:00:00 - 2025-01-15 01:00:00 UTC+8  
+                **比赛权重** : 23.13  
+                **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
+                **添加日历** : https://ctftime.org/event/2582.ics  
+                
             ??? Quote "[Cyber League 2025 - Major](https://ctfd.cyberleague.co/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctfd.cyberleague.co/)  
                 **比赛名称** : [Cyber League 2025 - Major](https://ctfd.cyberleague.co/)  
@@ -1124,13 +1124,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
                 **添加日历** : https://ctftime.org/event/2531.ics  
-                
-            ??? Quote "[CTF MetaRed Mexico Anuies-TIC 2024](https://ctfd.anuies.mx/)"  
-                [![](https://ctftime.org/media/events/ctf_2024_1.jpg){ width="200" align=left }](https://ctfd.anuies.mx/)  
-                **比赛名称** : [CTF MetaRed Mexico Anuies-TIC 2024](https://ctfd.anuies.mx/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-15 23:00:00 - 2024-10-16 11:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : UV-CSIRT (https://ctftime.org/team/166955)  
-                **添加日历** : https://ctftime.org/event/2482.ics  
                 
