@@ -185,6 +185,10 @@
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2542.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[KnightCTF 2025](https://2025.knightctf.com/)"  
                 [![](https://ctftime.org/media/events/knight_ctf_logo_dark_bg_small.png){ width="200" align=left }](https://2025.knightctf.com/)  
                 **比赛名称** : [KnightCTF 2025](https://2025.knightctf.com/)  
@@ -194,10 +198,6 @@
                 **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
                 **添加日历** : https://ctftime.org/event/2610.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[HKCERT CTF 2024 (Final Round)](https://ctf.hkcert.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.hkcert.org/)  
                 **比赛名称** : [HKCERT CTF 2024 (Final Round)](https://ctf.hkcert.org/)  
@@ -1088,13 +1088,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
                 **添加日历** : https://ctftime.org/event/2548.ics  
-                
-            ??? Quote "[Hack.lu CTF 2024](https://flu.xxx/)"  
-                [![](https://ctftime.org/media/events/logo-small.png){ width="200" align=left }](https://flu.xxx/)  
-                **比赛名称** : [Hack.lu CTF 2024](https://flu.xxx/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-19 02:00:00 - 2024-10-21 02:00:00 UTC+8  
-                **比赛权重** : 100.00  
-                **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
-                **添加日历** : https://ctftime.org/event/2438.ics  
                 
