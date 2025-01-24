@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[TUCTF 2024](https://ctfd.tuctf.com/)"  
-            [![](https://ctftime.org/media/events/TU-CTF-2024_2.png){ width="200" align=left }](https://ctfd.tuctf.com/)  
-            **比赛名称** : [TUCTF 2024](https://ctfd.tuctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-01-25 03:00:00 - 2025-01-27 03:00:00 UTC+8  
-            **比赛权重** : 28.60  
-            **赛事主办** : ascii overflow (https://ctftime.org/team/15360)  
-            **添加日历** : https://ctftime.org/event/2584.ics  
-            
         ??? Quote "[HackDay 2025 - Qualifications](https://hackday.fr/)"  
             [![](https://ctftime.org){ width="200" align=left }](https://hackday.fr/)  
             **比赛名称** : [HackDay 2025 - Qualifications](https://hackday.fr/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
             **添加日历** : https://ctftime.org/event/2648.ics  
+            
+        ??? Quote "[AlpacaHack Round 9 (Crypto)](https://alpacahack.com/)"  
+            [![](https://ctftime.org/media/events/dark_512_3.png){ width="200" align=left }](https://alpacahack.com/)  
+            **比赛名称** : [AlpacaHack Round 9 (Crypto)](https://alpacahack.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-01-26 11:00:00 - 2025-01-26 17:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
+            **添加日历** : https://ctftime.org/event/2633.ics  
             
