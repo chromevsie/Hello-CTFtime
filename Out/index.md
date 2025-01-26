@@ -401,6 +401,10 @@
                 **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
                 **添加日历** : https://ctftime.org/event/2648.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[AlpacaHack Round 9 (Crypto)](https://alpacahack.com/)"  
                 [![](https://ctftime.org/media/events/dark_512_3.png){ width="200" align=left }](https://alpacahack.com/)  
                 **比赛名称** : [AlpacaHack Round 9 (Crypto)](https://alpacahack.com/)  
@@ -410,10 +414,6 @@
                 **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
                 **添加日历** : https://ctftime.org/event/2633.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Dreamhack CTF Season 7 Round #2 (Div. 2)](https://dreamhack.io/ctf/656)"  
                 [![](https://ctftime.org/media/events/cover02.jpg){ width="200" align=left }](https://dreamhack.io/ctf/656)  
                 **比赛名称** : [Dreamhack CTF Season 7 Round #2 (Div. 2)](https://dreamhack.io/ctf/656)  
@@ -1304,13 +1304,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Akasec (https://ctftime.org/team/107202)  
                 **添加日历** : https://ctftime.org/event/2533.ics  
-                
-            ??? Quote "[DASCTF 2024 Golden October | Autumn is Strong, the Flames of War](https://buuoj.cn/match/matches/211)"  
-                [![](https://ctftime.org/media/events/20241009170303.png){ width="200" align=left }](https://buuoj.cn/match/matches/211)  
-                **比赛名称** : [DASCTF 2024 Golden October | Autumn is Strong, the Flames of War](https://buuoj.cn/match/matches/211)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-19 18:00:00 - 2024-10-20 02:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
-                **添加日历** : https://ctftime.org/event/2536.ics  
                 
