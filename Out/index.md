@@ -509,6 +509,10 @@
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2542.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[BroncoCTF 2025](https://ctfd.broncoctf.xyz/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctfd.broncoctf.xyz/)  
                 **比赛名称** : [BroncoCTF 2025](https://ctfd.broncoctf.xyz/)  
@@ -518,10 +522,6 @@
                 **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
                 **添加日历** : https://ctftime.org/event/2657.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[EHAX CTF 2025](https://ctf.ehax.tech/)"  
                 [![](https://ctftime.org/media/events/ctf-vector.png){ width="200" align=left }](https://ctf.ehax.tech/)  
                 **比赛名称** : [EHAX CTF 2025](https://ctf.ehax.tech/)  
@@ -1412,13 +1412,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : BUETSec (https://ctftime.org/team/357430)  
                 **添加日历** : https://ctftime.org/event/2525.ics  
-                
-            ??? Quote "[TuxCTF V2](https://www.instagram.com/tuxpwners/)"  
-                [![](https://ctftime.org/media/events/tuxpwners-logo.png){ width="200" align=left }](https://www.instagram.com/tuxpwners/)  
-                **比赛名称** : [TuxCTF V2](https://www.instagram.com/tuxpwners/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-29 17:00:00 - 2024-10-29 22:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : TuxPwners (https://ctftime.org/team/274660)  
-                **添加日历** : https://ctftime.org/event/2553.ics  
                 
