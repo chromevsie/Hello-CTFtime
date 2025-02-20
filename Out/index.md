@@ -505,6 +505,15 @@
                 **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
                 **添加日历** : https://ctftime.org/event/2669.ics  
                 
+            ??? Quote "[NNS CTF 2025](https://nnsc.tf/)"  
+                [![](https://ctftime.org/media/events/Logo_D.png){ width="200" align=left }](https://nnsc.tf/)  
+                **比赛名称** : [NNS CTF 2025](https://nnsc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-08-30 00:00:00 - 2025-09-01 00:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
+                **添加日历** : https://ctftime.org/event/2684.ics  
+                
             ??? Quote "[ASIS CTF Quals 2025](https://asisctf.com/)"  
                 [![](https://ctftime.org/media/events/asisctf_1.jpg){ width="200" align=left }](https://asisctf.com/)  
                 **比赛名称** : [ASIS CTF Quals 2025](https://asisctf.com/)  
