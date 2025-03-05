@@ -536,6 +536,10 @@
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2588.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[VishwaCTF 2025](https://vishwactf.com/)"  
                 [![](https://ctftime.org/media/events/VishwaCTF-Circular_1.png){ width="200" align=left }](https://vishwactf.com/)  
                 **比赛名称** : [VishwaCTF 2025](https://vishwactf.com/)  
@@ -545,10 +549,6 @@
                 **赛事主办** : CyberCellVIIT (https://ctftime.org/team/144677)  
                 **添加日历** : https://ctftime.org/event/2630.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Winja CTF | Nullcon Goa 2025](https://ctf.winja.org/)"  
                 [![](https://ctftime.org/media/events/winja-logo-transparent_2.png){ width="200" align=left }](https://ctf.winja.org/)  
                 **比赛名称** : [Winja CTF | Nullcon Goa 2025](https://ctf.winja.org/)  
@@ -1439,13 +1439,4 @@
                 **比赛权重** : 61.22  
                 **赛事主办** : Black Bauhinia, HKCERT (https://ctftime.org/team/83678, https://ctftime.org/team/134746)  
                 **添加日历** : https://ctftime.org/event/2455.ics  
-                
-            ??? Quote "[BlackAlps CTF 2024](https://www.blackalps.ch/ba-24/ctf.php)"  
-                [![](https://ctftime.org/media/events/blackalps-v5-logo-black_2.png){ width="200" align=left }](https://www.blackalps.ch/ba-24/ctf.php)  
-                **比赛名称** : [BlackAlps CTF 2024](https://www.blackalps.ch/ba-24/ctf.php)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-08 03:15:00 - 2024-11-08 07:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
-                **添加日历** : https://ctftime.org/event/2504.ics  
                 
