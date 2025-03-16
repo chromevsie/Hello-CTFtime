@@ -572,6 +572,10 @@
                 **赛事主办** : isss (https://ctftime.org/team/69010)  
                 **添加日历** : https://ctftime.org/event/2641.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[WatCTF W25](https://watctf.org/)"  
                 [![](https://ctftime.org/media/events/Black_Back_Yellow_Lock.png){ width="200" align=left }](https://watctf.org/)  
                 **比赛名称** : [WatCTF W25](https://watctf.org/)  
@@ -581,10 +585,6 @@
                 **赛事主办** : WATCTF (https://ctftime.org/team/373968)  
                 **添加日历** : https://ctftime.org/event/2727.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Nowruz 1404](https://1404.fmc.tf/)"  
                 [![](https://ctftime.org/media/events/FMCTF.png){ width="200" align=left }](https://1404.fmc.tf/)  
                 **比赛名称** : [Nowruz 1404](https://1404.fmc.tf/)  
@@ -1475,13 +1475,4 @@
                 **比赛权重** : 23.92  
                 **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
                 **添加日历** : https://ctftime.org/event/2454.ics  
-                
-            ??? Quote "[1337UP LIVE CTF](https://ctf.intigriti.io/)"  
-                [![](https://ctftime.org/media/events/intigriti_icon_cmyk_navy.png){ width="200" align=left }](https://ctf.intigriti.io/)  
-                **比赛名称** : [1337UP LIVE CTF](https://ctf.intigriti.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-15 19:59:59 - 2024-11-17 07:59:59 UTC+8  
-                **比赛权重** : 24.23  
-                **赛事主办** : CryptoCat (https://ctftime.org/team/124896)  
-                **添加日历** : https://ctftime.org/event/2446.ics  
                 
