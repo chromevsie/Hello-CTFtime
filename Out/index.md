@@ -208,6 +208,15 @@
                 **赛事主办** : UMBC Cyber Dawgs (https://ctftime.org/team/18405)  
                 **添加日历** : https://ctftime.org/event/2651.ics  
                 
+            ??? Quote "[HackPack CTF 2025](https://hackpack.club/ctf2025/)"  
+                [![](https://ctftime.org/media/events/logo_wolf.png){ width="200" align=left }](https://hackpack.club/ctf2025/)  
+                **比赛名称** : [HackPack CTF 2025](https://hackpack.club/ctf2025/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-19 00:00:00 - 2025-04-19 23:59:59 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : hackpack (https://ctftime.org/team/25905)  
+                **添加日历** : https://ctftime.org/event/2743.ics  
+                
             ??? Quote "[UMassCTF 2025](https://ctf.umasscybersec.org/)"  
                 [![](https://ctftime.org/media/events/889a1e484f0b51dd3d865b3a53b26200_1.jpg){ width="200" align=left }](https://ctf.umasscybersec.org/)  
                 **比赛名称** : [UMassCTF 2025](https://ctf.umasscybersec.org/)  
@@ -216,6 +225,15 @@
                 **比赛权重** : 48.38  
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2653.ics  
+                
+            ??? Quote "[CPCTF 2025](https://cpctf.space/)"  
+                [![](https://ctftime.org/media/events/cpctf_logo.png){ width="200" align=left }](https://cpctf.space/)  
+                **比赛名称** : [CPCTF 2025](https://cpctf.space/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-19 04:00:00 - 2025-04-21 04:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : traP (https://ctftime.org/team/62510)  
+                **添加日历** : https://ctftime.org/event/2554.ics  
                 
             ??? Quote "[b01lers CTF 2025](https://b01lersc.tf/)"  
                 [![](https://ctftime.org/media/events/b01lers-griffen_2.png){ width="200" align=left }](https://b01lersc.tf/)  
@@ -262,6 +280,15 @@
                 **赛事主办** : BSidesSF (https://ctftime.org/team/54737)  
                 **添加日历** : https://ctftime.org/event/2721.ics  
                 
+            ??? Quote "[HACKTHEON SEJONG 2025 Preliminaries](https://hacktheon.org/)"  
+                [![](https://ctftime.org/media/events/2025_hacktheon.png){ width="200" align=left }](https://hacktheon.org/)  
+                **比赛名称** : [HACKTHEON SEJONG 2025 Preliminaries](https://hacktheon.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-26 08:00:00 - 2025-04-26 17:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
+                **添加日历** : https://ctftime.org/event/2719.ics  
+                
             ??? Quote "[ICCSDFAI](https://ctf.astanait.edu.kz/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.astanait.edu.kz/)  
                 **比赛名称** : [ICCSDFAI](https://ctf.astanait.edu.kz/)  
@@ -270,6 +297,24 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : HackOrda (https://ctftime.org/team/367962)  
                 **添加日历** : https://ctftime.org/event/2685.ics  
+                
+            ??? Quote "[bi0sCTF 2025](https://ctf.bi0s.in/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.bi0s.in/)  
+                **比赛名称** : [bi0sCTF 2025](https://ctf.bi0s.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-03 13:30:00 - 2025-05-05 01:30:00 UTC+8  
+                **比赛权重** : 95.79  
+                **赛事主办** : bi0s (https://ctftime.org/team/662)  
+                **添加日历** : https://ctftime.org/event/2672.ics  
+                
+            ??? Quote "[UniVsThreats CTF](https://cybersec.uvt.ro/)"  
+                [![](https://ctftime.org/media/events/Project.6jpg_1.jpg){ width="200" align=left }](https://cybersec.uvt.ro/)  
+                **比赛名称** : [UniVsThreats CTF](https://cybersec.uvt.ro/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-03 18:00:00 - 2025-05-04 18:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
+                **添加日历** : https://ctftime.org/event/2726.ics  
                 
             ??? Quote "[LakeCTF Finals 24-25](https://lakectf.epfl.ch/)"  
                 [![](https://ctftime.org/media/events/5ee3dccc1b28b5f04bdf2f7b871b1d07.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
