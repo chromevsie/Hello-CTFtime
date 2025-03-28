@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[UNbreakable International 2025 - Individual Phase](https://unr25i-international.cyber-edu.co/)"  
-            [![](https://ctftime.org/media/events/MfknElGVExHGiftE.png){ width="200" align=left }](https://unr25i-international.cyber-edu.co/)  
-            **比赛名称** : [UNbreakable International 2025 - Individual Phase](https://unr25i-international.cyber-edu.co/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-28 17:00:00 - 2025-03-28 18:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : bitsentinel (https://ctftime.org/team/280005)  
-            **添加日历** : https://ctftime.org/event/2739.ics  
-            
         ??? Quote "[HackDay 2025 - Finals](https://hackday.fr/)"  
             [![](https://ctftime.org){ width="200" align=left }](https://hackday.fr/)  
             **比赛名称** : [HackDay 2025 - Finals](https://hackday.fr/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 81.00  
             **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
             **添加日历** : https://ctftime.org/event/2617.ics  
+            
+        ??? Quote "[TAMUctf 2025](https://tamuctf.com/)"  
+            [![](https://ctftime.org/media/events/TAMUCTF_cmaroon_1_1.png){ width="200" align=left }](https://tamuctf.com/)  
+            **比赛名称** : [TAMUctf 2025](https://tamuctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-03-29 06:00:00 - 2025-03-31 06:00:00 UTC+8  
+            **比赛权重** : 56.66  
+            **赛事主办** : TAMUctf (https://ctftime.org/team/37721)  
+            **添加日历** : https://ctftime.org/event/2681.ics  
             
