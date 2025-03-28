@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[SibirCTF 2025](https://vk.com/sibirctf)"  
-                [![](https://ctftime.org/media/events/cybersibir2025logo_1.png){ width="200" align=left }](https://vk.com/sibirctf)  
-                **比赛名称** : [SibirCTF 2025](https://vk.com/sibirctf)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-03-28 11:15:00 - 2025-03-29 20:15:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : keva (https://ctftime.org/team/2980)  
-                **添加日历** : https://ctftime.org/event/2742.ics  
-                
             ??? Quote "[StealthCup](https://stealth.ait.ac.at/)"  
                 [![](https://ctftime.org/media/events/StealthCup-2-1311x2048.png){ width="200" align=left }](https://stealth.ait.ac.at/)  
                 **比赛名称** : [StealthCup](https://stealth.ait.ac.at/)  
@@ -697,6 +688,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2588.ics  
+                
+            ??? Quote "[SibirCTF 2025](https://vk.com/sibirctf)"  
+                [![](https://ctftime.org/media/events/cybersibir2025logo_1.png){ width="200" align=left }](https://vk.com/sibirctf)  
+                **比赛名称** : [SibirCTF 2025](https://vk.com/sibirctf)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2025-03-28 11:15:00 - 2025-03-29 20:15:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : keva (https://ctftime.org/team/2980)  
+                **添加日历** : https://ctftime.org/event/2742.ics  
                 
     === "*已经结束*"
         === "国内赛事"
