@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
-                [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
-                **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
-                **添加日历** : https://ctftime.org/event/2738.ics  
-                
             ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
                 [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
                 **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
@@ -738,6 +729,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
+                [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
+                **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
+                **添加日历** : https://ctftime.org/event/2738.ics  
+                
             ??? Quote "[UNbreakable International 2025 - Individual Phase](https://unr25i-international.cyber-edu.co/)"  
                 [![](https://ctftime.org/media/events/MfknElGVExHGiftE.png){ width="200" align=left }](https://unr25i-international.cyber-edu.co/)  
                 **比赛名称** : [UNbreakable International 2025 - Individual Phase](https://unr25i-international.cyber-edu.co/)  
@@ -1628,13 +1628,4 @@
                 **比赛权重** : 24.67  
                 **赛事主办** : WreckTheLine (https://ctftime.org/team/57908)  
                 **添加日历** : https://ctftime.org/event/2452.ics  
-                
-            ??? Quote "[World Wide CTF 2024](https://wwctf.com/)"  
-                [![](https://ctftime.org/media/events/logobg.png){ width="200" align=left }](https://wwctf.com/)  
-                **比赛名称** : [World Wide CTF 2024](https://wwctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8  
-                **比赛权重** : 24.48  
-                **赛事主办** : 🐧‎ (https://ctftime.org/team/283853)  
-                **添加日历** : https://ctftime.org/event/2572.ics  
                 

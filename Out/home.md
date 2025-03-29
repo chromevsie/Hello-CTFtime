@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
-            [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
-            **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
-            **添加日历** : https://ctftime.org/event/2738.ics  
-            
         ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
             [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
             **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 100.00  
             **赛事主办** : Plaid Parliament of Pwning (https://ctftime.org/team/284)  
             **添加日历** : https://ctftime.org/event/2508.ics  
+            
+        ??? Quote "[squ1rrel CTF 2025](https://ctf.squ1rrel.dev/)"  
+            [![](https://ctftime.org/media/events/squ1rrel_logo.png){ width="200" align=left }](https://ctf.squ1rrel.dev/)  
+            **比赛名称** : [squ1rrel CTF 2025](https://ctf.squ1rrel.dev/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-04-05 07:00:00 - 2025-04-07 01:00:00 UTC+8  
+            **比赛权重** : 24.25  
+            **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
+            **添加日历** : https://ctftime.org/event/2708.ics  
             
