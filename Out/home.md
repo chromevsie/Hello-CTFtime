@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[PolyPwnCTF 2025](https://pwn.polycyber.io/)"  
-            [![](https://ctftime.org/media/events/Logo_PolyPwn_CTF.jpg){ width="200" align=left }](https://pwn.polycyber.io/)  
-            **比赛名称** : [PolyPwnCTF 2025](https://pwn.polycyber.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-29 18:00:00 - 2025-03-31 04:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
-            **添加日历** : https://ctftime.org/event/2734.ics  
-            
         ??? Quote "[Undutmaning 2025](https://undutmaning.se/)"  
             [![](https://ctftime.org/media/events/2025logo_ctfd.jpg){ width="200" align=left }](https://undutmaning.se/)  
             **比赛名称** : [Undutmaning 2025](https://undutmaning.se/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 27.14  
             **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
             **添加日历** : https://ctftime.org/event/2676.ics  
+            
+        ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
+            [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
+            **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
+            **添加日历** : https://ctftime.org/event/2738.ics  
             
