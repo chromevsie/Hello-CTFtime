@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[SillyCTF 2025](https://sillyctf.psuccso.org/)"  
-            [![](https://ctftime.org/media/events/SillyCTF.png){ width="200" align=left }](https://sillyctf.psuccso.org/)  
-            **比赛名称** : [SillyCTF 2025](https://sillyctf.psuccso.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-29 20:00:00 - 2025-03-30 08:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Penn State CCSO (https://ctftime.org/team/367931)  
-            **添加日历** : https://ctftime.org/event/2637.ics  
-            
-        ??? Quote "[VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)"  
-            [![](https://ctftime.org/media/events/logo-social-yellow_16.png){ width="200" align=left }](https://q.2025.volgactf.ru/)  
-            **比赛名称** : [VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-29 20:00:00 - 2025-03-30 20:00:00 UTC+8  
-            **比赛权重** : 27.14  
-            **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
-            **添加日历** : https://ctftime.org/event/2676.ics  
-            
         ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
             [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
             **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 24.73  
             **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
             **添加日历** : https://ctftime.org/event/2667.ics  
+            
+        ??? Quote "[Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)"  
+            [![](https://ctftime.org/media/events/Untitled_design_2.png){ width="200" align=left }](https://iiitv.capturepoint5353.tech/)  
+            **比赛名称** : [Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-03-31 02:00:00 - 2025-04-01 16:10:29 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : HORIZON_03 (https://ctftime.org/team/375436)  
+            **添加日历** : https://ctftime.org/event/2747.ics  
+            
+        ??? Quote "[PlaidCTF 2025](https://plaidctf.com/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://plaidctf.com/)  
+            **比赛名称** : [PlaidCTF 2025](https://plaidctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-04-05 05:00:00 - 2025-04-07 05:00:00 UTC+8  
+            **比赛权重** : 100.00  
+            **赛事主办** : Plaid Parliament of Pwning (https://ctftime.org/team/284)  
+            **添加日历** : https://ctftime.org/event/2508.ics  
             
