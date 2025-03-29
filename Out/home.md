@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Undutmaning 2025](https://undutmaning.se/)"  
-            [![](https://ctftime.org/media/events/2025logo_ctfd.jpg){ width="200" align=left }](https://undutmaning.se/)  
-            **比赛名称** : [Undutmaning 2025](https://undutmaning.se/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-29 19:00:00 - 2025-03-30 03:00:00 UTC+8  
-            **比赛权重** : 24.50  
-            **赛事主办** : Undutmaning (https://ctftime.org/team/212504)  
-            **添加日历** : https://ctftime.org/event/2589.ics  
-            
         ??? Quote "[SillyCTF 2025](https://sillyctf.psuccso.org/)"  
             [![](https://ctftime.org/media/events/SillyCTF.png){ width="200" align=left }](https://sillyctf.psuccso.org/)  
             **比赛名称** : [SillyCTF 2025](https://sillyctf.psuccso.org/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
             **添加日历** : https://ctftime.org/event/2738.ics  
+            
+        ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
+            [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
+            **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-03-30 03:00:00 - 2025-03-31 03:00:00 UTC+8  
+            **比赛权重** : 24.73  
+            **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
+            **添加日历** : https://ctftime.org/event/2667.ics  
             
