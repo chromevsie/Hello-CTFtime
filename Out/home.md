@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)"  
-            [![](https://ctftime.org/media/events/Untitled_design_2.png){ width="200" align=left }](https://iiitv.capturepoint5353.tech/)  
-            **比赛名称** : [Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-03-31 02:00:00 - 2025-04-01 16:10:29 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : HORIZON_03 (https://ctftime.org/team/375436)  
-            **添加日历** : https://ctftime.org/event/2747.ics  
-            
         ??? Quote "[PlaidCTF 2025](https://plaidctf.com/)"  
             [![](https://ctftime.org){ width="200" align=left }](https://plaidctf.com/)  
             **比赛名称** : [PlaidCTF 2025](https://plaidctf.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0.00  
             **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
             **添加日历** : https://ctftime.org/event/2671.ics  
+            
+        ??? Quote "[Moscow CTF School 2025](http://ctf.cs.msu.ru/)"  
+            [![](https://ctftime.org){ width="200" align=left }](http://ctf.cs.msu.ru/)  
+            **比赛名称** : [Moscow CTF School 2025](http://ctf.cs.msu.ru/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-04-05 18:00:00 - 2025-04-06 02:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Bushwhackers (https://ctftime.org/team/586)  
+            **添加日历** : https://ctftime.org/event/2712.ics  
             
