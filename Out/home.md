@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Auvergn'Hack](https://ctf.zitf.fr/)"  
-            [![](https://ctftime.org/media/events/gorilla_auvergnhack3.jpg){ width="200" align=left }](https://ctf.zitf.fr/)  
-            **比赛名称** : [Auvergn'Hack](https://ctf.zitf.fr/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-04-05 20:45:00 - 2025-04-06 03:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : ZiTF (https://ctftime.org/team/376047)  
-            **添加日历** : https://ctftime.org/event/2752.ics  
-            
         ??? Quote "[Ulisse CTF 2025](https://2025.ulis.se/)"  
             [![](https://ctftime.org/media/events/logo_640x640.jpg){ width="200" align=left }](https://2025.ulis.se/)  
             **比赛名称** : [Ulisse CTF 2025](https://2025.ulis.se/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 34.82  
             **赛事主办** : 1753c (https://ctftime.org/team/178287)  
             **添加日历** : https://ctftime.org/event/2639.ics  
+            
+        ??? Quote "[Texas Security Awareness Week 2025](https://texsaw.org/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://texsaw.org/)  
+            **比赛名称** : [Texas Security Awareness Week 2025](https://texsaw.org/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-04-12 03:00:00 - 2025-04-14 03:00:00 UTC+8  
+            **比赛权重** : 31.00  
+            **赛事主办** : CSG (https://ctftime.org/team/333)  
+            **添加日历** : https://ctftime.org/event/2736.ics  
             
