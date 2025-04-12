@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[DEF CON CTF Qualifier 2025](https://nautilus.institute/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://nautilus.institute/)  
-                **比赛名称** : [DEF CON CTF Qualifier 2025](https://nautilus.institute/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-12 08:00:00 - 2025-04-14 08:00:00 UTC+8  
-                **比赛权重** : 69.44  
-                **赛事主办** : Nautilus Institute (https://ctftime.org/team/181536)  
-                **添加日历** : https://ctftime.org/event/2604.ics  
-                
             ??? Quote "[THCon 2K25 CTF](https://thcon.party/)"  
                 [![](https://ctftime.org/media/events/Sans_titre.ico){ width="200" align=left }](https://thcon.party/)  
                 **比赛名称** : [THCon 2K25 CTF](https://thcon.party/)  
@@ -562,6 +553,15 @@
                 **比赛权重** : 31.00  
                 **赛事主办** : CSG (https://ctftime.org/team/333)  
                 **添加日历** : https://ctftime.org/event/2736.ics  
+                
+            ??? Quote "[DEF CON CTF Qualifier 2025](https://nautilus.institute/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://nautilus.institute/)  
+                **比赛名称** : [DEF CON CTF Qualifier 2025](https://nautilus.institute/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-12 08:00:00 - 2025-04-14 08:00:00 UTC+8  
+                **比赛权重** : 69.44  
+                **赛事主办** : Nautilus Institute (https://ctftime.org/team/181536)  
+                **添加日历** : https://ctftime.org/event/2604.ics  
                 
     === "*已经结束*"
         === "国内赛事"
