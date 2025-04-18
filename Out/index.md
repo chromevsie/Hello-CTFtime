@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[b01lers CTF 2025](https://b01lersc.tf/)"  
-                [![](https://ctftime.org/media/events/b01lers-griffen_2.png){ width="200" align=left }](https://b01lersc.tf/)  
-                **比赛名称** : [b01lers CTF 2025](https://b01lersc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-19 07:00:00 - 2025-04-21 07:00:00 UTC+8  
-                **比赛权重** : 44.50  
-                **赛事主办** : b01lers (https://ctftime.org/team/11464)  
-                **添加日历** : https://ctftime.org/event/2652.ics  
-                
             ??? Quote "[T-CTF 2025](https://t-ctf.ru/)"  
                 [![](https://ctftime.org/media/events/t-ctf.jpg){ width="200" align=left }](https://t-ctf.ru/)  
                 **比赛名称** : [T-CTF 2025](https://t-ctf.ru/)  
@@ -490,6 +481,15 @@
                 **比赛权重** : 48.38  
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2653.ics  
+                
+            ??? Quote "[b01lers CTF 2025](https://b01lersc.tf/)"  
+                [![](https://ctftime.org/media/events/b01lers-griffen_2.png){ width="200" align=left }](https://b01lersc.tf/)  
+                **比赛名称** : [b01lers CTF 2025](https://b01lersc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-19 07:00:00 - 2025-04-21 07:00:00 UTC+8  
+                **比赛权重** : 44.50  
+                **赛事主办** : b01lers (https://ctftime.org/team/11464)  
+                **添加日历** : https://ctftime.org/event/2652.ics  
                 
     === "*已经结束*"
         === "国内赛事"
