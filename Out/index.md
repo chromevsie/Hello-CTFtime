@@ -581,6 +581,10 @@
                 **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
                 **添加日历** : https://ctftime.org/event/2774.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[ICCSDFAI](https://ctf.astanait.edu.kz/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.astanait.edu.kz/)  
                 **比赛名称** : [ICCSDFAI](https://ctf.astanait.edu.kz/)  
@@ -590,10 +594,6 @@
                 **赛事主办** : HackOrda (https://ctftime.org/team/367962)  
                 **添加日历** : https://ctftime.org/event/2685.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Incognito 6.0](https://incognito.axiosiiitl.dev/)"  
                 [![](https://ctftime.org/media/events/logo_108.png){ width="200" align=left }](https://incognito.axiosiiitl.dev/)  
                 **比赛名称** : [Incognito 6.0](https://incognito.axiosiiitl.dev/)  
@@ -1484,13 +1484,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
                 **添加日历** : https://ctftime.org/event/2633.ics  
-                
-            ??? Quote "[Codefest CTF 2025](https://codefest-ctf.iitbhu.tech/)"  
-                [![](https://ctftime.org/media/events/favicon_6.png){ width="200" align=left }](https://codefest-ctf.iitbhu.tech/)  
-                **比赛名称** : [Codefest CTF 2025](https://codefest-ctf.iitbhu.tech/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-25 20:30:00 - 2025-01-27 08:30:00 UTC+8  
-                **比赛权重** : 23.98  
-                **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
-                **添加日历** : https://ctftime.org/event/2648.ics  
                 
