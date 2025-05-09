@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Break the Syntax CTF 2025](https://bts2025.wh.edu.pl/)"  
-                [![](https://ctftime.org/media/events/btslogo.png){ width="200" align=left }](https://bts2025.wh.edu.pl/)  
-                **比赛名称** : [Break the Syntax CTF 2025](https://bts2025.wh.edu.pl/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-10 00:00:00 - 2025-05-11 18:00:00 UTC+8  
-                **比赛权重** : 42.00  
-                **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
-                **添加日历** : https://ctftime.org/event/2749.ics  
-                
             ??? Quote "[DamCTF 2025](https://damctf.xyz/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://damctf.xyz/)  
                 **比赛名称** : [DamCTF 2025](https://damctf.xyz/)  
@@ -518,6 +509,19 @@
                 **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
                 **添加日历** : https://ctftime.org/event/2774.ics  
                 
+            ??? Quote "[Break the Syntax CTF 2025](https://bts2025.wh.edu.pl/)"  
+                [![](https://ctftime.org/media/events/btslogo.png){ width="200" align=left }](https://bts2025.wh.edu.pl/)  
+                **比赛名称** : [Break the Syntax CTF 2025](https://bts2025.wh.edu.pl/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-10 00:00:00 - 2025-05-11 18:00:00 UTC+8  
+                **比赛权重** : 42.00  
+                **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
+                **添加日历** : https://ctftime.org/event/2749.ics  
+                
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[LakeCTF Finals 24-25](https://lakectf.epfl.ch/)"  
                 [![](https://ctftime.org/media/events/5ee3dccc1b28b5f04bdf2f7b871b1d07.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
                 **比赛名称** : [LakeCTF Finals 24-25](https://lakectf.epfl.ch/)  
@@ -527,10 +531,6 @@
                 **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
                 **添加日历** : https://ctftime.org/event/2568.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[DevSecOps CTF 2025](https://ctf.punksecurity.co.uk/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.punksecurity.co.uk/)  
                 **比赛名称** : [DevSecOps CTF 2025](https://ctf.punksecurity.co.uk/)  
@@ -1421,13 +1421,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Pragyan (https://ctftime.org/team/33867)  
                 **添加日历** : https://ctftime.org/event/2608.ics  
-                
-            ??? Quote "[BITSCTF 2025](https://ctf.bitskrieg.in/)"  
-                [![](https://ctftime.org/media/events/BITSkrieg_logo.png){ width="200" align=left }](https://ctf.bitskrieg.in/)  
-                **比赛名称** : [BITSCTF 2025](https://ctf.bitskrieg.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-02-07 20:00:00 - 2025-02-09 20:00:00 UTC+8  
-                **比赛权重** : 21.81  
-                **赛事主办** : BITSkrieg (https://ctftime.org/team/22310)  
-                **添加日历** : https://ctftime.org/event/2607.ics  
                 
