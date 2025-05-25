@@ -536,6 +536,10 @@
                 **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
                 **添加日历** : https://ctftime.org/event/2675.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[SAS CTF 2025 Quals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS25_new.png){ width="200" align=left }](https://ctf.thesascon.com/)  
                 **比赛名称** : [SAS CTF 2025 Quals](https://ctf.thesascon.com/)  
@@ -545,10 +549,6 @@
                 **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/2636.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[AI CTF 2025](https://aictf.phdays.fun/)"  
                 [![](https://ctftime.org/media/events/821553befa9c3ad5b7d17e5e1cbb36a7.png){ width="200" align=left }](https://aictf.phdays.fun/)  
                 **比赛名称** : [AI CTF 2025](https://aictf.phdays.fun/)  
@@ -1439,13 +1439,4 @@
                 **比赛权重** : 13.00  
                 **赛事主办** : Winja CTF (https://ctftime.org/team/145228)  
                 **添加日历** : https://ctftime.org/event/2692.ics  
-                
-            ??? Quote "[CSCG 2025](https://play.cscg.live/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://play.cscg.live/)  
-                **比赛名称** : [CSCG 2025](https://play.cscg.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-02 01:00:00 - 2025-05-02 00:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : NFITS (https://ctftime.org/team/360674)  
-                **添加日历** : https://ctftime.org/event/2588.ics  
                 
