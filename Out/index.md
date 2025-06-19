@@ -491,6 +491,10 @@
                 **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
                 **添加日历** : https://ctftime.org/event/2717.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[DHM 2025](https://hacking-meisterschaft.de/)"  
                 [![](https://ctftime.org/media/events/2db77c0219d24093a757eb38d47c2744.png){ width="200" align=left }](https://hacking-meisterschaft.de/)  
                 **比赛名称** : [DHM 2025](https://hacking-meisterschaft.de/)  
@@ -500,10 +504,6 @@
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2828.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Cyber Lumen x GWK #CTF1](https://www.fkca.eu/cyber-lumen-global-women-in-korea-ctf1/)"  
                 [![](https://ctftime.org/media/events/Cyber_Lumen_X_GWK_CTF1.png){ width="200" align=left }](https://www.fkca.eu/cyber-lumen-global-women-in-korea-ctf1/)  
                 **比赛名称** : [Cyber Lumen x GWK #CTF1](https://www.fkca.eu/cyber-lumen-global-women-in-korea-ctf1/)  
@@ -1394,13 +1394,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : Ireland without the RE (https://ctftime.org/team/179144)  
                 **添加日历** : https://ctftime.org/event/2614.ics  
-                
-            ??? Quote "[FooBar CTF 2025](https://foobarctf.nitdgplug.org/)"  
-                [![](https://ctftime.org/media/events/Foobar_logo_1.png){ width="200" align=left }](https://foobarctf.nitdgplug.org/)  
-                **比赛名称** : [FooBar CTF 2025](https://foobarctf.nitdgplug.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-22 14:30:00 - 2025-03-23 14:30:00 UTC+8  
-                **比赛权重** : 35.73  
-                **赛事主办** : Alchemists of Kernel (https://ctftime.org/team/130794)  
-                **添加日历** : https://ctftime.org/event/2720.ics  
                 
