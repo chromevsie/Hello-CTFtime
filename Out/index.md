@@ -74,7 +74,7 @@
                 **添加日历** : https://ctftime.org/event/2731.ics  
                 
             ??? Quote "[No Hack No CTF 2025](https://nhnc.ic3dt3a.org/)"  
-                [![](https://ctftime.org/media/events/6fe41e47a890f50919119e60332343c3.jpg){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
+                [![](https://ctftime.org/media/events/nhnc-2025.png){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
                 **比赛名称** : [No Hack No CTF 2025](https://nhnc.ic3dt3a.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-07-05 16:00:00 - 2025-07-07 16:00:00 UTC+8  
@@ -446,15 +446,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[IERAE CTF 2025 - GMO Cybersecurity Contest](https://gmo-cybersecurity.com/event/ieraectf25/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://gmo-cybersecurity.com/event/ieraectf25/)  
-                **比赛名称** : [IERAE CTF 2025 - GMO Cybersecurity Contest](https://gmo-cybersecurity.com/event/ieraectf25/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-21 14:00:00 - 2025-06-22 14:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : ierae (https://ctftime.org/team/224122)  
-                **添加日历** : https://ctftime.org/event/2655.ics  
-                
             ??? Quote "[MaltaCTF 2025 Quals](https://quals.2025.ctf.mt/)"  
                 [![](https://ctftime.org/media/events/MaltaCTF.png){ width="200" align=left }](https://quals.2025.ctf.mt/)  
                 **比赛名称** : [MaltaCTF 2025 Quals](https://quals.2025.ctf.mt/)  
@@ -477,6 +468,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[IERAE CTF 2025 - GMO Cybersecurity Contest](https://gmo-cybersecurity.com/event/ieraectf25/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://gmo-cybersecurity.com/event/ieraectf25/)  
+                **比赛名称** : [IERAE CTF 2025 - GMO Cybersecurity Contest](https://gmo-cybersecurity.com/event/ieraectf25/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-06-21 14:00:00 - 2025-06-22 14:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : ierae (https://ctftime.org/team/224122)  
+                **添加日历** : https://ctftime.org/event/2655.ics  
+                
             ??? Quote "[GPN CTF 2025](https://gpn23.ctf.kitctf.de/)"  
                 [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d_1.png){ width="200" align=left }](https://gpn23.ctf.kitctf.de/)  
                 **比赛名称** : [GPN CTF 2025](https://gpn23.ctf.kitctf.de/)  
@@ -1367,13 +1367,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
                 **添加日历** : https://ctftime.org/event/2666.ics  
-                
-            ??? Quote "[SibirCTF 2025](https://vk.com/sibirctf)"  
-                [![](https://ctftime.org/media/events/cybersibir2025logo_1.png){ width="200" align=left }](https://vk.com/sibirctf)  
-                **比赛名称** : [SibirCTF 2025](https://vk.com/sibirctf)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-03-28 11:15:00 - 2025-03-29 20:15:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : keva (https://ctftime.org/team/2980)  
-                **添加日历** : https://ctftime.org/event/2742.ics  
                 
