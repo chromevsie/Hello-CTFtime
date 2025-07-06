@@ -473,15 +473,6 @@
                 **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
                 **添加日历** : https://ctftime.org/event/2818.ics  
                 
-            ??? Quote "[Cyber Arena](https://csem.sturtles.in/events/1/)"  
-                [![](https://ctftime.org/media/events/logo_111.png){ width="200" align=left }](https://csem.sturtles.in/events/1/)  
-                **比赛名称** : [Cyber Arena](https://csem.sturtles.in/events/1/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-07-05 18:04:15 - 2025-07-06 18:04:15 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Super_Hacker (https://ctftime.org/team/195477)  
-                **添加日历** : https://ctftime.org/event/2825.ics  
-                
             ??? Quote "[BlitzCTF](https://ctf.blitzhack.xyz/)"  
                 [![](https://ctftime.org/media/events/BlitzCTF.webp){ width="200" align=left }](https://ctf.blitzhack.xyz/)  
                 **比赛名称** : [BlitzCTF](https://ctf.blitzhack.xyz/)  
@@ -495,6 +486,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[Cyber Arena](https://csem.sturtles.in/events/1/)"  
+                [![](https://ctftime.org/media/events/logo_111.png){ width="200" align=left }](https://csem.sturtles.in/events/1/)  
+                **比赛名称** : [Cyber Arena](https://csem.sturtles.in/events/1/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-07-05 18:04:15 - 2025-07-06 18:04:15 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Super_Hacker (https://ctftime.org/team/195477)  
+                **添加日历** : https://ctftime.org/event/2825.ics  
+                
             ??? Quote "[Junior.Crypt.2025 CTF](http://ctf-spcs.mf.grsu.by/)"  
                 [![](https://ctftime.org/media/events/logo_13.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
                 **比赛名称** : [Junior.Crypt.2025 CTF](http://ctf-spcs.mf.grsu.by/)  
@@ -509,7 +509,7 @@
                 **比赛名称** : [BSides Mumbai CTF 2025](https://ctf.bsidesmumbai.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-06-28 18:00:00 - 2025-06-29 18:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 0.00  
                 **赛事主办** : DarkArmy (https://ctftime.org/team/26569)  
                 **添加日历** : https://ctftime.org/event/2781.ics  
                 
@@ -1385,13 +1385,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : Penn State CCSO (https://ctftime.org/team/367931)  
                 **添加日历** : https://ctftime.org/event/2637.ics  
-                
-            ??? Quote "[VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)"  
-                [![](https://ctftime.org/media/events/logo-social-yellow_16.png){ width="200" align=left }](https://q.2025.volgactf.ru/)  
-                **比赛名称** : [VolgaCTF 2025 Qualifier](https://q.2025.volgactf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 20:00:00 - 2025-03-30 20:00:00 UTC+8  
-                **比赛权重** : 27.14  
-                **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
-                **添加日历** : https://ctftime.org/event/2676.ics  
                 
