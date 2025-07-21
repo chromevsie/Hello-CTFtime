@@ -154,9 +154,9 @@
                 **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
                 **添加日历** : https://ctftime.org/event/2835.ics  
                 
-            ??? Quote "[HITCON CTF 2025](http://ctf.hitcon.org/)"  
-                [![](https://ctftime.org/media/events/83e99b182fd8f8a8e11a44a7c2f44557.png){ width="200" align=left }](http://ctf.hitcon.org/)  
-                **比赛名称** : [HITCON CTF 2025](http://ctf.hitcon.org/)  
+            ??? Quote "[HITCON CTF 2025](https://ctf2025.hitcon.org/)"  
+                [![](https://ctftime.org/media/events/83e99b182fd8f8a8e11a44a7c2f44557.png){ width="200" align=left }](https://ctf2025.hitcon.org/)  
+                **比赛名称** : [HITCON CTF 2025](https://ctf2025.hitcon.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-22 22:00:00 - 2025-08-24 22:00:00 UTC+8  
                 **比赛权重** : 100.00  
@@ -428,6 +428,11 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[BDSec CTF 2025](https://bdsec-ctf.com/)"  
                 [![](https://ctftime.org/media/events/bdsec-ctf-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
                 **比赛名称** : [BDSec CTF 2025](https://bdsec-ctf.com/)  
@@ -437,10 +442,6 @@
                 **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
                 **添加日历** : https://ctftime.org/event/2784.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[ToH CTF 2025](https://ctf.towerofhanoi.it/)"  
                 [![](https://ctftime.org/media/events/tohctf25.jpeg){ width="200" align=left }](https://ctf.towerofhanoi.it/)  
                 **比赛名称** : [ToH CTF 2025](https://ctf.towerofhanoi.it/)  
@@ -1331,13 +1332,4 @@
                 **比赛权重** : 31.00  
                 **赛事主办** : CSG (https://ctftime.org/team/333)  
                 **添加日历** : https://ctftime.org/event/2736.ics  
-                
-            ??? Quote "[1753CTF 2025](https://1753ctf.com/)"  
-                [![](https://ctftime.org/media/events/badge_1.png){ width="200" align=left }](https://1753ctf.com/)  
-                **比赛名称** : [1753CTF 2025](https://1753ctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-12 01:00:00 - 2025-04-13 01:00:00 UTC+8  
-                **比赛权重** : 34.82  
-                **赛事主办** : 1753c (https://ctftime.org/team/178287)  
-                **添加日历** : https://ctftime.org/event/2639.ics  
                 
