@@ -590,6 +590,10 @@
                 **赛事主办** : Eindbazen (https://ctftime.org/team/322)  
                 **添加日历** : https://ctftime.org/event/2680.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Startpwn CTF 2025](https://app.metactf.com/starpwn-2025)"  
                 [![](https://ctftime.org/media/events/starpwn_logo_cr.png){ width="200" align=left }](https://app.metactf.com/starpwn-2025)  
                 **比赛名称** : [Startpwn CTF 2025](https://app.metactf.com/starpwn-2025)  
@@ -599,10 +603,6 @@
                 **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
                 **添加日历** : https://ctftime.org/event/2855.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[idekCTF 2025](https://ctf.idek.team/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.idek.team/)  
                 **比赛名称** : [idekCTF 2025](https://ctf.idek.team/)  
@@ -1493,13 +1493,4 @@
                 **比赛权重** : 48.38  
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2653.ics  
-                
-            ??? Quote "[HackPack CTF 2025](https://hackpack.club/ctf2025/)"  
-                [![](https://ctftime.org/media/events/logo_wolf.png){ width="200" align=left }](https://hackpack.club/ctf2025/)  
-                **比赛名称** : [HackPack CTF 2025](https://hackpack.club/ctf2025/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-19 00:00:00 - 2025-04-19 23:59:59 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : hackpack (https://ctftime.org/team/25905)  
-                **添加日历** : https://ctftime.org/event/2743.ics  
                 
