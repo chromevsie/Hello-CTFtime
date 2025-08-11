@@ -581,6 +581,11 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[WHY2025 CTF](https://ctf.why2025.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.why2025.org/)  
                 **比赛名称** : [WHY2025 CTF](https://ctf.why2025.org/)  
@@ -590,10 +595,6 @@
                 **赛事主办** : Eindbazen (https://ctftime.org/team/322)  
                 **添加日历** : https://ctftime.org/event/2680.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Startpwn CTF 2025](https://app.metactf.com/starpwn-2025)"  
                 [![](https://ctftime.org/media/events/starpwn_logo_cr.png){ width="200" align=left }](https://app.metactf.com/starpwn-2025)  
                 **比赛名称** : [Startpwn CTF 2025](https://app.metactf.com/starpwn-2025)  
@@ -1484,13 +1485,4 @@
                 **比赛权重** : 44.50  
                 **赛事主办** : b01lers (https://ctftime.org/team/11464)  
                 **添加日历** : https://ctftime.org/event/2652.ics  
-                
-            ??? Quote "[UMassCTF 2025](https://ctf.umasscybersec.org/)"  
-                [![](https://ctftime.org/media/events/889a1e484f0b51dd3d865b3a53b26200_1.jpg){ width="200" align=left }](https://ctf.umasscybersec.org/)  
-                **比赛名称** : [UMassCTF 2025](https://ctf.umasscybersec.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-19 02:00:00 - 2025-04-21 08:00:00 UTC+8  
-                **比赛权重** : 48.38  
-                **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
-                **添加日历** : https://ctftime.org/event/2653.ics  
                 
