@@ -428,15 +428,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[FortID CTF 2025](https://fortid.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/ChatGPT_Image_Aug_7_2025_12_53_26_AM.png){ width="200" align=left }](https://fortid.ctfd.io/)  
-                **比赛名称** : [FortID CTF 2025](https://fortid.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-12 20:00:00 - 2025-09-14 20:00:00 UTC+8  
-                **比赛权重** : 30.00  
-                **赛事主办** : TBTL (https://ctftime.org/team/170112)  
-                **添加日历** : https://ctftime.org/event/2893.ics  
-                
             ??? Quote "[[DELAYED] CSAW CTF Qualification Round 2025](https://ctf.csaw.io/)"  
                 [![](https://ctftime.org/media/events/csaw-stars.png){ width="200" align=left }](https://ctf.csaw.io/)  
                 **比赛名称** : [[DELAYED] CSAW CTF Qualification Round 2025](https://ctf.csaw.io/)  
@@ -485,6 +476,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : Friendly Maltese Citizens (https://ctftime.org/team/220769)  
                 **添加日历** : https://ctftime.org/event/2777.ics  
+                
+            ??? Quote "[FortID CTF 2025](https://fortid.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/ChatGPT_Image_Aug_7_2025_12_53_26_AM.png){ width="200" align=left }](https://fortid.ctfd.io/)  
+                **比赛名称** : [FortID CTF 2025](https://fortid.ctfd.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-12 20:00:00 - 2025-09-14 20:00:00 UTC+8  
+                **比赛权重** : 30.00  
+                **赛事主办** : TBTL (https://ctftime.org/team/170112)  
+                **添加日历** : https://ctftime.org/event/2893.ics  
                 
             ??? Quote "[DefCamp Capture the Flag (D-CTF) 2025 Quals](https://dctf25-quals.cyber-edu.co/)"  
                 [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom_1.png){ width="200" align=left }](https://dctf25-quals.cyber-edu.co/)  
@@ -1367,13 +1367,4 @@
                 **比赛权重** : 36.94  
                 **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
                 **添加日历** : https://ctftime.org/event/2715.ics  
-                
-            ??? Quote "[Cyshock - The Awakening](https://cyshock.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/Cyshock_Banner_Transparent.png){ width="200" align=left }](https://cyshock.ctfd.io/)  
-                **比赛名称** : [Cyshock - The Awakening](https://cyshock.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-14 16:00:00 - 2025-05-16 00:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
-                **添加日历** : https://ctftime.org/event/2787.ics  
                 
