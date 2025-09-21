@@ -383,15 +383,6 @@
                 **赛事主办** : thehackerscrew (https://ctftime.org/team/85618)  
                 **添加日历** : https://ctftime.org/event/2704.ics  
                 
-            ??? Quote "[Ctrl+Space CTF Quals](https://ctrl-space.gg/)"  
-                [![](https://ctftime.org/media/events/ctrlspace_1.png){ width="200" align=left }](https://ctrl-space.gg/)  
-                **比赛名称** : [Ctrl+Space CTF Quals](https://ctrl-space.gg/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-20 17:00:00 - 2025-09-21 16:59:59 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : ESA (https://ctftime.org/team/391420)  
-                **添加日历** : https://ctftime.org/event/2872.ics  
-                
     === "*已经结束*"
         === "国内赛事"
     
@@ -404,6 +395,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Crimson Defense (https://ctftime.org/team/65283)  
                 **添加日历** : https://ctftime.org/event/2846.ics  
+                
+            ??? Quote "[Ctrl+Space CTF Quals](https://ctrl-space.gg/)"  
+                [![](https://ctftime.org/media/events/ctrlspace_1.png){ width="200" align=left }](https://ctrl-space.gg/)  
+                **比赛名称** : [Ctrl+Space CTF Quals](https://ctrl-space.gg/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-20 17:00:00 - 2025-09-21 16:59:59 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : ESA (https://ctftime.org/team/391420)  
+                **添加日历** : https://ctftime.org/event/2872.ics  
                 
             ??? Quote "[K17 CTF](https://ctf.secso.cc/)"  
                 [![](https://ctftime.org/media/events/k17.png){ width="200" align=left }](https://ctf.secso.cc/)  
@@ -1286,13 +1286,4 @@
                 **比赛权重** : 20.72  
                 **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/2636.ics  
-                
-            ??? Quote "[DaVinciCTF 2025](https://dvc.tf/)"  
-                [![](https://ctftime.org/media/events/davincictf_vectorized.png){ width="200" align=left }](https://dvc.tf/)  
-                **比赛名称** : [DaVinciCTF 2025](https://dvc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-24 18:00:00 - 2025-05-26 04:00:00 UTC+8  
-                **比赛权重** : 45.00  
-                **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
-                **添加日历** : https://ctftime.org/event/2675.ics  
                 
