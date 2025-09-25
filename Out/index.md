@@ -383,6 +383,10 @@
                 **赛事主办** : Hackorn (https://ctftime.org/team/385272)  
                 **添加日历** : https://ctftime.org/event/2919.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
                 [![](https://ctftime.org/media/events/logo-srdnlen-color-260-social.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
                 **比赛名称** : [Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
@@ -392,10 +396,6 @@
                 **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
                 **添加日历** : https://ctftime.org/event/2840.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[CDCTF 2025](https://uacrimsondefense.github.io/cdctf.html)"  
                 [![](https://ctftime.org/media/events/cdctf_logo_square.png){ width="200" align=left }](https://uacrimsondefense.github.io/cdctf.html)  
                 **比赛名称** : [CDCTF 2025](https://uacrimsondefense.github.io/cdctf.html)  
@@ -1286,13 +1286,4 @@
                 **比赛权重** : 54.67  
                 **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
                 **添加日历** : https://ctftime.org/event/2770.ics  
-                
-            ??? Quote "[GIT X IITB Trust Lab CTF](https://unstop.com/p/git-x-iitb-ctf-kls-git-1461610)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://unstop.com/p/git-x-iitb-ctf-kls-git-1461610)  
-                **比赛名称** : [GIT X IITB Trust Lab CTF](https://unstop.com/p/git-x-iitb-ctf-kls-git-1461610)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-28 15:23:12 - 2025-05-28 15:23:12 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : fs0cie1yᶦⁿᵈᶦᵃ (https://ctftime.org/team/380218)  
-                **添加日历** : https://ctftime.org/event/2815.ics  
                 
