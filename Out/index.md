@@ -338,15 +338,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[FAUST CTF 2025](https://2025.faustctf.net/)"  
-                [![](https://ctftime.org/media/events/faustctf_3.png){ width="200" align=left }](https://2025.faustctf.net/)  
-                **比赛名称** : [FAUST CTF 2025](https://2025.faustctf.net/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-09-27 20:00:00 - 2025-09-28 05:00:00 UTC+8  
-                **比赛权重** : 92.50  
-                **赛事主办** : FAUST (https://ctftime.org/team/550)  
-                **添加日历** : https://ctftime.org/event/2780.ics  
-                
             ??? Quote "[SunshineCTF 2025](https://sunshinectf.org/)"  
                 [![](https://ctftime.org/media/events/sctf_logo_25.png){ width="200" align=left }](https://sunshinectf.org/)  
                 **比赛名称** : [SunshineCTF 2025](https://sunshinectf.org/)  
@@ -356,6 +347,10 @@
                 **赛事主办** : Knightsec (https://ctftime.org/team/2500)  
                 **添加日历** : https://ctftime.org/event/2863.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[DFIR Labs Digital Forensics Challenge by The DFIR Report](https://dfirlabs.thedfirreport.com/dfirchallenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://dfirlabs.thedfirreport.com/dfirchallenge)  
                 **比赛名称** : [DFIR Labs Digital Forensics Challenge by The DFIR Report](https://dfirlabs.thedfirreport.com/dfirchallenge)  
@@ -365,10 +360,15 @@
                 **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
                 **添加日历** : https://ctftime.org/event/2837.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
+            ??? Quote "[FAUST CTF 2025](https://2025.faustctf.net/)"  
+                [![](https://ctftime.org/media/events/faustctf_3.png){ width="200" align=left }](https://2025.faustctf.net/)  
+                **比赛名称** : [FAUST CTF 2025](https://2025.faustctf.net/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2025-09-27 20:00:00 - 2025-09-28 05:00:00 UTC+8  
+                **比赛权重** : 92.50  
+                **赛事主办** : FAUST (https://ctftime.org/team/550)  
+                **添加日历** : https://ctftime.org/event/2780.ics  
+                
             ??? Quote "[Iran Tech Olympics CTF 2025](https://ctf.olympics.tech/)"  
                 [![](https://ctftime.org/media/events/tech_olympic_logo.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
                 **比赛名称** : [Iran Tech Olympics CTF 2025](https://ctf.olympics.tech/)  
@@ -1250,22 +1250,4 @@
                 **比赛权重** : 32.92  
                 **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
                 **添加日历** : https://ctftime.org/event/2765.ics  
-                
-            ??? Quote "[[POSTPONED] Internet Festival 2025 CTF Quals](https://ifctf.fibonhack.it/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ifctf.fibonhack.it/)  
-                **比赛名称** : [[POSTPONED] Internet Festival 2025 CTF Quals](https://ifctf.fibonhack.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-31 19:00:00 - 2025-06-01 19:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
-                **添加日历** : https://ctftime.org/event/2605.ics  
-                
-            ??? Quote "[N0PSctf](https://ctf.nops.re/)"  
-                [![](https://ctftime.org/media/events/logo-news.png){ width="200" align=left }](https://ctf.nops.re/)  
-                **比赛名称** : [N0PSctf](https://ctf.nops.re/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-31 16:00:00 - 2025-06-02 04:00:00 UTC+8  
-                **比赛权重** : 24.34  
-                **赛事主办** : NOPS (https://ctftime.org/team/4056)  
-                **添加日历** : https://ctftime.org/event/2486.ics  
                 
