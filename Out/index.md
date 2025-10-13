@@ -554,6 +554,10 @@
                 **赛事主办** : Astek Group (https://ctftime.org/team/407057)  
                 **添加日历** : https://ctftime.org/event/2959.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[POC CTF Qualification 2025](https://powerofcommunity.net/2025/ctf.html)"  
                 [![](https://ctftime.org/media/events/vDP90SY4soKs6q3cKITowqXIE7a0Jy.png){ width="200" align=left }](https://powerofcommunity.net/2025/ctf.html)  
                 **比赛名称** : [POC CTF Qualification 2025](https://powerofcommunity.net/2025/ctf.html)  
@@ -563,10 +567,6 @@
                 **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
                 **添加日历** : https://ctftime.org/event/2955.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[EnigmaXplore 3.0](https://enigmaxplore.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/TFLOGO.jpg){ width="200" align=left }](https://enigmaxplore.ctfd.io/)  
                 **比赛名称** : [EnigmaXplore 3.0](https://enigmaxplore.ctfd.io/)  
@@ -1457,13 +1457,4 @@
                 **比赛权重** : 100.00  
                 **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
                 **添加日历** : https://ctftime.org/event/2772.ics  
-                
-            ??? Quote "[SSMCTF 2025](https://ssmct.org/ctf)"  
-                [![](https://ctftime.org/media/events/SSMlogocoloured.png){ width="200" align=left }](https://ssmct.org/ctf)  
-                **比赛名称** : [SSMCTF 2025](https://ssmct.org/ctf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-14 17:00:00 - 2025-06-16 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : D0wn13s (https://ctftime.org/team/287400)  
-                **添加日历** : https://ctftime.org/event/2808.ics  
                 
