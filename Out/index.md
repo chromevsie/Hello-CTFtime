@@ -73,9 +73,9 @@
                 **赛事主办** : les amateurs (https://ctftime.org/team/166729)  
                 **添加日历** : https://ctftime.org/event/2844.ics  
                 
-            ??? Quote "[Curiosity CTF 2025](http://2025.curiosityctf.xyz/)"  
+            ??? Quote "[Curiosity CTF 2025 [POSTPONED]](http://2025.curiosityctf.xyz/)"  
                 [![](https://ctftime.org){ width="200" align=left }](http://2025.curiosityctf.xyz/)  
-                **比赛名称** : [Curiosity CTF 2025](http://2025.curiosityctf.xyz/)  
+                **比赛名称** : [Curiosity CTF 2025 [POSTPONED]](http://2025.curiosityctf.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-11-15 04:00:00 - 2025-11-17 04:00:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -347,6 +347,10 @@
                 **赛事主办** : V1t (https://ctftime.org/team/280950)  
                 **添加日历** : https://ctftime.org/event/2920.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[N1CTF 2025](https://ctf2025.nu1l.com/)"  
                 [![](https://ctftime.org/media/events/logo2_5_2.png){ width="200" align=left }](https://ctf2025.nu1l.com/)  
                 **比赛名称** : [N1CTF 2025](https://ctf2025.nu1l.com/)  
@@ -356,10 +360,6 @@
                 **赛事主办** : Nu1L (https://ctftime.org/team/19208)  
                 **添加日历** : https://ctftime.org/event/2795.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)"  
                 [![](https://ctftime.org/media/events/SPG_Hackloween_2025__FB_Profile.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
                 **比赛名称** : [Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
@@ -1250,13 +1250,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : Offensive Skills (https://ctftime.org/team/389597)  
                 **添加日历** : https://ctftime.org/event/2830.ics  
-                
-            ??? Quote "[AlpacaHack Round 12 (Crypto)](https://alpacahack.com/ctfs/round-12)"  
-                [![](https://ctftime.org/media/events/ctftime_11.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-12)  
-                **比赛名称** : [AlpacaHack Round 12 (Crypto)](https://alpacahack.com/ctfs/round-12)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-07-06 11:00:00 - 2025-07-06 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-                **添加日历** : https://ctftime.org/event/2805.ics  
                 
