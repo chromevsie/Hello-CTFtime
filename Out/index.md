@@ -347,15 +347,6 @@
                 **赛事主办** : V1t (https://ctftime.org/team/280950)  
                 **添加日历** : https://ctftime.org/event/2920.ics  
                 
-            ??? Quote "[Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)"  
-                [![](https://ctftime.org/media/events/SPG_Hackloween_2025__FB_Profile.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
-                **比赛名称** : [Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-01 10:00:00 - 2025-11-02 10:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : SECPlayground (https://ctftime.org/team/375409)  
-                **添加日历** : https://ctftime.org/event/2914.ics  
-                
             ??? Quote "[N1CTF 2025](https://ctf2025.nu1l.com/)"  
                 [![](https://ctftime.org/media/events/logo2_5_2.png){ width="200" align=left }](https://ctf2025.nu1l.com/)  
                 **比赛名称** : [N1CTF 2025](https://ctf2025.nu1l.com/)  
@@ -369,6 +360,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)"  
+                [![](https://ctftime.org/media/events/SPG_Hackloween_2025__FB_Profile.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
+                **比赛名称** : [Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-01 10:00:00 - 2025-11-02 10:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SECPlayground (https://ctftime.org/team/375409)  
+                **添加日历** : https://ctftime.org/event/2914.ics  
+                
             ??? Quote "[Haunted Pumpkin CTF '25](https://osintswitzerland.ch/events/haunted-pumpkin-ctf)"  
                 [![](https://ctftime.org/media/events/IMG_9346.jpeg){ width="200" align=left }](https://osintswitzerland.ch/events/haunted-pumpkin-ctf)  
                 **比赛名称** : [Haunted Pumpkin CTF '25](https://osintswitzerland.ch/events/haunted-pumpkin-ctf)  
@@ -1259,13 +1259,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
                 **添加日历** : https://ctftime.org/event/2805.ics  
-                
-            ??? Quote "[BlitzCTF](https://ctf.blitzhack.xyz/)"  
-                [![](https://ctftime.org/media/events/BlitzCTF.webp){ width="200" align=left }](https://ctf.blitzhack.xyz/)  
-                **比赛名称** : [BlitzCTF](https://ctf.blitzhack.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-07-05 22:30:00 - 2025-07-07 10:30:00 UTC+8  
-                **比赛权重** : 23.20  
-                **赛事主办** : BlitzHack (https://ctftime.org/team/307415)  
-                **添加日历** : https://ctftime.org/event/2816.ics  
                 
