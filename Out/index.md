@@ -320,6 +320,10 @@
                 **赛事主办** : scriptohio (https://ctftime.org/team/144581)  
                 **添加日历** : https://ctftime.org/event/2883.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[saarCTF 2025](https://ctf.saarland/)"  
                 [![](https://ctftime.org/media/events/saarctf_2025.png){ width="200" align=left }](https://ctf.saarland/)  
                 **比赛名称** : [saarCTF 2025](https://ctf.saarland/)  
@@ -329,10 +333,6 @@
                 **赛事主办** : saarsec (https://ctftime.org/team/15337)  
                 **添加日历** : https://ctftime.org/event/2859.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Equinor CTF 2025](https://ctf.equinor.com/)"  
                 [![](https://ctftime.org/media/events/ept_2.png){ width="200" align=left }](https://ctf.equinor.com/)  
                 **比赛名称** : [Equinor CTF 2025](https://ctf.equinor.com/)  
@@ -1223,13 +1223,4 @@
                 **比赛权重** : 88.25  
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2577.ics  
-                
-            ??? Quote "[L3HCTF 2025](https://l3hctf2025.xctf.org.cn/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://l3hctf2025.xctf.org.cn/)  
-                **比赛名称** : [L3HCTF 2025](https://l3hctf2025.xctf.org.cn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-07-12 09:00:00 - 2025-07-14 09:00:00 UTC+8  
-                **比赛权重** : 23.50  
-                **赛事主办** : L3H Sec (https://ctftime.org/team/75946)  
-                **添加日历** : https://ctftime.org/event/2823.ics  
                 
