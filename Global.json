@@ -120,6 +120,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "2025 Qiangwang Challenge on Cyber Mimic Defense Finals",
+        "比赛时间": "2025-11-26 12:00:00 - 2025-11-29 12:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2999.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://nest.pmlabs.com.cn/#/internationalEliteChallenge",
+        "比赛标志": "https://ctftime.org/media/events/mimicoctupus.png",
+        "比赛权重": "0.00",
+        "赛事主办": "LoveFromMimic (https://ctftime.org/team/364644)",
+        "比赛ID": "1212",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "LakeCTF Quals 25-26",
         "比赛时间": "2025-11-29 02:00:00 - 2025-11-30 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2944.ics",
@@ -168,6 +180,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "BKISC CTF 2025",
+        "比赛时间": "2025-12-01 10:00:00 - 2025-12-02 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2927.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.bkisc.com/",
+        "比赛标志": "https://ctftime.org/media/events/logo_1_1.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "BKISC (https://ctftime.org/team/199510)",
+        "比赛ID": "1390",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "BlackHat MEA CTF Final 2025",
         "比赛时间": "2025-12-02 16:00:00 - 2025-12-04 23:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2877.ics",
@@ -180,6 +204,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "Metared Argentina 2025",
+        "比赛时间": "2025-12-04 20:00:00 - 2025-12-05 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3003.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.cert.unlp.edu.ar/",
+        "比赛标志": "https://ctftime.org/media/events/0645ac9c15c72f7be37e5ff68bafea52.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "CERTUNLP (https://ctftime.org/team/89294)",
+        "比赛ID": "1195",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Null CTF 2025",
         "比赛时间": "2025-12-05 23:00:00 - 2025-12-07 23:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2901.ics",
@@ -189,6 +225,30 @@
         "比赛权重": "0.00",
         "赛事主办": "r0/dev/null (https://ctftime.org/team/398024)",
         "比赛ID": "1336",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "P3rf3ctr00t CTF 2025",
+        "比赛时间": "2025-12-05 23:00:00 - 2025-12-07 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3009.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.perfectroot.wiki/",
+        "比赛标志": "https://ctftime.org/media/events/project_20240319_1256007-01.png",
+        "比赛权重": "0.00",
+        "赛事主办": "L3v3l 6 (https://ctftime.org/team/206364)",
+        "比赛ID": "1449",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "VuwCTF 2025",
+        "比赛时间": "2025-12-06 05:00:00 - 2025-12-07 12:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3012.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://2025.vuwctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/VUWCTF_logo.png",
+        "比赛权重": "0.00",
+        "赛事主办": "VuwCTF (https://ctftime.org/team/378359)",
+        "比赛ID": "1434",
         "比赛状态": "oncoming"
     },
     {
@@ -252,6 +312,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "HKCERT CTF 2025 (Qualifying Round)",
+        "比赛时间": "2025-12-19 16:00:00 - 2025-12-21 16:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2998.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.hkcert.org/",
+        "比赛标志": "https://ctftime.org/media/events/CTF2025.png",
+        "比赛权重": "0.00",
+        "赛事主办": "HKCERT (https://ctftime.org/team/134746)",
+        "比赛ID": "529",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "TSG CTF 2025",
         "比赛时间": "2025-12-20 15:00:00 - 2025-12-21 15:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2867.ics",
@@ -288,6 +360,30 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "RUSEC CTF 2025",
+        "比赛时间": "2026-01-09 08:00:00 - 2026-01-12 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2981.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf.rusec.club/",
+        "比赛标志": "https://ctftime.org/media/events/8ed561b45f892df2a5b105e8537794b3_1.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "HolyC (https://ctftime.org/team/226444)",
+        "比赛ID": "1143",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "UofTCTF 2026",
+        "比赛时间": "2026-01-10 08:00:00 - 2026-01-12 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2969.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.uoftctf.org/",
+        "比赛标志": "https://ctftime.org/media/events/uoftctf_logo_3000_black_1.png",
+        "比赛权重": "33.45",
+        "赛事主办": "UofTCTF (https://ctftime.org/team/139261)",
+        "比赛ID": "1052",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "2026 Embedded Capture the Flag",
         "比赛时间": "2026-01-14 20:00:00 - 2026-04-15 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2916.ics",
@@ -297,6 +393,30 @@
         "比赛权重": "0",
         "赛事主办": "ectfmitre (https://ctftime.org/team/87292)",
         "比赛ID": "364",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "SWIMMER OSINT CTF",
+        "比赛时间": "2026-01-17 11:10:00 - 2026-01-17 23:10:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2986.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://twitter.com/DIVER_OSINT_CTF",
+        "比赛标志": "https://ctftime.org/media/events/circle-white-text.png",
+        "比赛权重": "0.00",
+        "赛事主办": "diver_osint (https://ctftime.org/team/299569)",
+        "比赛ID": "1111",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Säkerhets-SM Quals 2026",
+        "比赛时间": "2026-01-25 00:00:00 - 2026-01-26 00:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2945.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.sakerhetssm.se/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "Kodsport (https://ctftime.org/team/395272)",
+        "比赛ID": "1372",
         "比赛状态": "oncoming"
     },
     {
