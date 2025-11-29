@@ -311,15 +311,6 @@
                 **赛事主办** : Hacken Proof (https://ctftime.org/team/411613)  
                 **添加日历** : https://ctftime.org/event/3007.ics  
                 
-            ??? Quote "[2025 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/#/internationalEliteChallenge)"  
-                [![](https://ctftime.org/media/events/mimicoctupus.png){ width="200" align=left }](https://nest.pmlabs.com.cn/#/internationalEliteChallenge)  
-                **比赛名称** : [2025 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/#/internationalEliteChallenge)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-26 12:00:00 - 2025-11-29 12:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
-                **添加日历** : https://ctftime.org/event/2999.ics  
-                
             ??? Quote "[LakeCTF Quals 25-26](https://lakectf.epfl.ch/)"  
                 [![](https://ctftime.org/media/events/lake_logo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
                 **比赛名称** : [LakeCTF Quals 25-26](https://lakectf.epfl.ch/)  
@@ -342,6 +333,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[2025 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/#/internationalEliteChallenge)"  
+                [![](https://ctftime.org/media/events/mimicoctupus.png){ width="200" align=left }](https://nest.pmlabs.com.cn/#/internationalEliteChallenge)  
+                **比赛名称** : [2025 Qiangwang Challenge on Cyber Mimic Defense Finals](https://nest.pmlabs.com.cn/#/internationalEliteChallenge)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-26 12:00:00 - 2025-11-29 12:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
+                **添加日历** : https://ctftime.org/event/2999.ics  
+                
             ??? Quote "[Infosec University Hackathon 2025](https://syfinfosechackathon.info/)"  
                 [![](https://ctftime.org/media/events/OCTOBER_INFOSEC_AWARENESS_MONTH_-_Logo.jpg){ width="200" align=left }](https://syfinfosechackathon.info/)  
                 **比赛名称** : [Infosec University Hackathon 2025](https://syfinfosechackathon.info/)  
@@ -1232,13 +1232,4 @@
                 **比赛权重** : 30.00  
                 **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
                 **添加日历** : https://ctftime.org/event/2874.ics  
-                
-            ??? Quote "[corCTF 2025](https://2025.cor.team/)"  
-                [![](https://ctftime.org/media/events/corctflogo_4.png){ width="200" align=left }](https://2025.cor.team/)  
-                **比赛名称** : [corCTF 2025](https://2025.cor.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-08-30 08:00:00 - 2025-09-01 08:00:00 UTC+8  
-                **比赛权重** : 82.00  
-                **赛事主办** : Crusaders of Rust (https://ctftime.org/team/132628)  
-                **添加日历** : https://ctftime.org/event/2763.ics  
                 
