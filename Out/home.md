@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[SWIMMER OSINT CTF](https://twitter.com/DIVER_OSINT_CTF)"  
-            [![](https://ctftime.org/media/events/circle-white-text.png){ width="200" align=left }](https://twitter.com/DIVER_OSINT_CTF)  
-            **比赛名称** : [SWIMMER OSINT CTF](https://twitter.com/DIVER_OSINT_CTF)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-01-17 11:10:00 - 2026-01-17 23:10:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
-            **添加日历** : https://ctftime.org/event/2986.ics  
-            
         ??? Quote "[KnightCTF 2026](https://2026.knightctf.com/)"  
             [![](https://ctftime.org/media/events/knightctf-logo.png){ width="200" align=left }](https://2026.knightctf.com/)  
             **比赛名称** : [KnightCTF 2026](https://2026.knightctf.com/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : Kodsport (https://ctftime.org/team/395272)  
             **添加日历** : https://ctftime.org/event/2945.ics  
+            
+        ??? Quote "[HackDay 2026 - Qualifications](https://register.hackday.fr/register/)"  
+            [![](https://ctftime.org/media/events/5513a205a0a6489f9dc0ecff6fd7d669.png){ width="200" align=left }](https://register.hackday.fr/register/)  
+            **比赛名称** : [HackDay 2026 - Qualifications](https://register.hackday.fr/register/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-01-24 03:00:00 - 2026-01-26 03:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
+            **添加日历** : https://ctftime.org/event/3038.ics  
             
