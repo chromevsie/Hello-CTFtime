@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Dreamhack Invitational Quals 2026](https://dreamhack.io/ctf/772)"  
-            [![](https://ctftime.org/media/events/e66fed5653581908ac8e93f82ad73cae_2.jpg){ width="200" align=left }](https://dreamhack.io/ctf/772)  
-            **比赛名称** : [Dreamhack Invitational Quals 2026](https://dreamhack.io/ctf/772)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-01-24 08:00:00 - 2026-01-25 08:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
-            **添加日历** : https://ctftime.org/event/3025.ics  
-            
-        ??? Quote "[LilacCTF 2026](https://lilacctf2026.xctf.org.cn/)"  
-            [![](https://ctftime.org/media/events/square.jpg){ width="200" align=left }](https://lilacctf2026.xctf.org.cn/)  
-            **比赛名称** : [LilacCTF 2026](https://lilacctf2026.xctf.org.cn/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-01-24 09:00:00 - 2026-01-26 09:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Lilac (https://ctftime.org/team/15163)  
-            **添加日历** : https://ctftime.org/event/3071.ics  
-            
         ??? Quote "[VSL CTF 2026](https://vsl-ctf.com/)"  
             [![](https://ctftime.org/media/events/logo_16.jpg){ width="200" align=left }](https://vsl-ctf.com/)  
             **比赛名称** : [VSL CTF 2026](https://vsl-ctf.com/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0  
             **赛事主办** : Fluid Attacks (https://ctftime.org/team/126627)  
             **添加日历** : https://ctftime.org/event/3087.ics  
+            
+        ??? Quote "[CyberQuest 26](https://ngpkanam.com/events/41)"  
+            [![](https://ctftime.org/media/events/WhatsApp_Image_2026-01-15_at_16.42.06.jpeg){ width="200" align=left }](https://ngpkanam.com/events/41)  
+            **比赛名称** : [CyberQuest 26](https://ngpkanam.com/events/41)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-01-28 11:30:00 - 2026-01-28 19:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Cybernexus (https://ctftime.org/team/400801)  
+            **添加日历** : https://ctftime.org/event/3080.ics  
+            
+        ??? Quote "[Hack for a Change 2026 January: UN SDG 15](http://www.hackforachange.org/)"  
+            [![](https://ctftime.org/media/events/logo_117.png){ width="200" align=left }](http://www.hackforachange.org/)  
+            **比赛名称** : [Hack for a Change 2026 January: UN SDG 15](http://www.hackforachange.org/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-01-30 08:00:00 - 2026-02-03 07:59:59 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
+            **添加日历** : https://ctftime.org/event/3083.ics  
             
