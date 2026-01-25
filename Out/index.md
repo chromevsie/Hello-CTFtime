@@ -473,15 +473,6 @@
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2916.ics  
                 
-            ??? Quote "[0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.0xL4ugh.com/)  
-                **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
-                **添加日历** : https://ctftime.org/event/3024.ics  
-                
             ??? Quote "[Säkerhets-SM Quals 2026](https://ctf.sakerhetssm.se/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.sakerhetssm.se/)  
                 **比赛名称** : [Säkerhets-SM Quals 2026](https://ctf.sakerhetssm.se/)  
@@ -509,6 +500,10 @@
                 **赛事主办** : Lilac (https://ctftime.org/team/15163)  
                 **添加日历** : https://ctftime.org/event/3071.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Fluid Attacks' CTF 2026-1](https://fluidattacks.com/ctf)"  
                 [![](https://ctftime.org/media/events/2.jpg){ width="200" align=left }](https://fluidattacks.com/ctf)  
                 **比赛名称** : [Fluid Attacks' CTF 2026-1](https://fluidattacks.com/ctf)  
@@ -518,10 +513,6 @@
                 **赛事主办** : Fluid Attacks (https://ctftime.org/team/126627)  
                 **添加日历** : https://ctftime.org/event/3087.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[VSL CTF 2026](https://vsl-ctf.com/)"  
                 [![](https://ctftime.org/media/events/logo_16.jpg){ width="200" align=left }](https://vsl-ctf.com/)  
                 **比赛名称** : [VSL CTF 2026](https://vsl-ctf.com/)  
@@ -539,6 +530,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
                 **添加日历** : https://ctftime.org/event/3025.ics  
+                
+            ??? Quote "[0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.0xL4ugh.com/)  
+                **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
+                **添加日历** : https://ctftime.org/event/3024.ics  
                 
             ??? Quote "[MetaCTF January 2026 Flash CTF](https://mctf.io/jan2026)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://mctf.io/jan2026)  
@@ -1403,22 +1403,4 @@
                 **比赛权重** : 26.50  
                 **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
                 **添加日历** : https://ctftime.org/event/2968.ics  
-                
-            ??? Quote "[PermCTF 2025](https://permctf2025.pstu.ru/)"  
-                [![](https://ctftime.org/media/events/photo_2025-11-07_12-25-37.jpg){ width="200" align=left }](https://permctf2025.pstu.ru/)  
-                **比赛名称** : [PermCTF 2025](https://permctf2025.pstu.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-10-11 12:30:00 - 2025-10-11 22:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : E-Toolz (https://ctftime.org/team/61508)  
-                **添加日历** : https://ctftime.org/event/3000.ics  
-                
-            ??? Quote "[EnigmaXplore 3.0](https://enigmaxplore.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/TFLOGO.jpg){ width="200" align=left }](https://enigmaxplore.ctfd.io/)  
-                **比赛名称** : [EnigmaXplore 3.0](https://enigmaxplore.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-10-10 20:30:00 - 2025-10-11 08:30:00 UTC+8  
-                **比赛权重** : 24.58  
-                **赛事主办** : Crispr_iiitn (https://ctftime.org/team/270138)  
-                **添加日历** : https://ctftime.org/event/2957.ics  
                 
