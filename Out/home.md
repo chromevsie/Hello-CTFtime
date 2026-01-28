@@ -1,15 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[CyberQuest 26](https://ngpkanam.com/events/41)"  
-            [![](https://ctftime.org/media/events/WhatsApp_Image_2026-01-15_at_16.42.06.jpeg){ width="200" align=left }](https://ngpkanam.com/events/41)  
-            **比赛名称** : [CyberQuest 26](https://ngpkanam.com/events/41)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-01-28 11:30:00 - 2026-01-28 19:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Cybernexus (https://ctftime.org/team/400801)  
-            **添加日历** : https://ctftime.org/event/3080.ics  
-            
         ??? Quote "[Hack for a Change 2026 January: UN SDG 15](http://www.hackforachange.org/)"  
             [![](https://ctftime.org/media/events/logo_117.png){ width="200" align=left }](http://www.hackforachange.org/)  
             **比赛名称** : [Hack for a Change 2026 January: UN SDG 15](http://www.hackforachange.org/)  
@@ -36,4 +27,13 @@
             **比赛权重** : 0  
             **赛事主办** : ASCF (https://ctftime.org/team/418960)  
             **添加日历** : https://ctftime.org/event/3099.ics  
+            
+        ??? Quote "[ATC Winter Vibes Community CTF 2.0](https://atcwintervibesctf.com/)"  
+            [![](https://ctftime.org/media/events/ATC_Logo.PNG){ width="200" align=left }](https://atcwintervibesctf.com/)  
+            **比赛名称** : [ATC Winter Vibes Community CTF 2.0](https://atcwintervibesctf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-01-30 22:00:00 - 2026-01-31 22:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : ATC CTF Team (https://ctftime.org/team/370333)  
+            **添加日历** : https://ctftime.org/event/3068.ics  
             
