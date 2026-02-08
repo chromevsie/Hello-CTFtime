@@ -36,15 +36,6 @@ comments: true
     **赛事主办** : PBR | UCLA (https://ctftime.org/team/186494)  
     **添加日历** : https://ctftime.org/event/3015.ics  
     
-??? Quote "[DUCKERZ CTF 2026](https://teams.duckerz.ru/)"  
-    [![](https://ctftime.org/media/events/DUCKERZ.png){ width="200" align=left }](https://teams.duckerz.ru/)  
-    **比赛名称** : [DUCKERZ CTF 2026](https://teams.duckerz.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-02-07 17:00:00 - 2026-02-08 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : DUCKERZ (https://ctftime.org/team/372036)  
-    **添加日历** : https://ctftime.org/event/3067.ics  
-    
 ??? Quote "[EncipherX CTF 4.0](https://encipherx.in/)"  
     [![](https://ctftime.org/media/events/EncipherX_logo.png){ width="200" align=left }](https://encipherx.in/)  
     **比赛名称** : [EncipherX CTF 4.0](https://encipherx.in/)  

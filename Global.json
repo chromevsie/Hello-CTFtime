@@ -648,18 +648,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "DUCKERZ CTF 2026",
-        "比赛时间": "2026-02-07 17:00:00 - 2026-02-08 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3067.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://teams.duckerz.ru/",
-        "比赛标志": "https://ctftime.org/media/events/DUCKERZ.png",
-        "比赛权重": "0",
-        "赛事主办": "DUCKERZ (https://ctftime.org/team/372036)",
-        "比赛ID": "1467",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "EncipherX CTF 4.0",
         "比赛时间": "2026-02-07 19:00:00 - 2026-02-08 19:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3074.ics",
@@ -670,6 +658,18 @@
         "赛事主办": "Phoenixcybersecurity (https://ctftime.org/team/419257)",
         "比赛ID": "1493",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "DUCKERZ CTF 2026",
+        "比赛时间": "2026-02-07 17:00:00 - 2026-02-08 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3067.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://teams.duckerz.ru/",
+        "比赛标志": "https://ctftime.org/media/events/DUCKERZ.png",
+        "比赛权重": "0",
+        "赛事主办": "DUCKERZ (https://ctftime.org/team/372036)",
+        "比赛ID": "1467",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Nullcon Goa HackIM 2026 CTF",
@@ -1857,18 +1857,6 @@
         "比赛权重": "21.87",
         "赛事主办": "osu!gaming (https://ctftime.org/team/186954)",
         "比赛ID": "998",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "2025 Qiangwang Challenge on Cyber Mimic Defense Qualification",
-        "比赛时间": "2025-10-25 09:00:00 - 2025-10-26 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2952.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://nest.pmlabs.com.cn/#/internationalEliteChallenge",
-        "比赛标志": "https://ctftime.org/media/events/wechat_2025-09-26_160854_722_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "LoveFromMimic (https://ctftime.org/team/364644)",
-        "比赛ID": "1212",
         "比赛状态": "past"
     }
 ]
