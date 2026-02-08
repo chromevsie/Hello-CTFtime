@@ -500,6 +500,10 @@
                 **赛事主办** : PBR | UCLA (https://ctftime.org/team/186494)  
                 **添加日历** : https://ctftime.org/event/3015.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[EncipherX CTF 4.0](https://encipherx.in/)"  
                 [![](https://ctftime.org/media/events/EncipherX_logo.png){ width="200" align=left }](https://encipherx.in/)  
                 **比赛名称** : [EncipherX CTF 4.0](https://encipherx.in/)  
@@ -509,10 +513,6 @@
                 **赛事主办** : Phoenixcybersecurity (https://ctftime.org/team/419257)  
                 **添加日历** : https://ctftime.org/event/3074.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[DUCKERZ CTF 2026](https://teams.duckerz.ru/)"  
                 [![](https://ctftime.org/media/events/DUCKERZ.png){ width="200" align=left }](https://teams.duckerz.ru/)  
                 **比赛名称** : [DUCKERZ CTF 2026](https://teams.duckerz.ru/)  
@@ -1403,13 +1403,4 @@
                 **比赛权重** : 35.39  
                 **赛事主办** : Cyber Hacktics (https://ctftime.org/team/127017)  
                 **添加日历** : https://ctftime.org/event/2912.ics  
-                
-            ??? Quote "[osu!gaming CTF 2025](https://osugaming.sekai.team/)"  
-                [![](https://ctftime.org/media/events/3fb5fab1b0946459c9c33d71e6c5db35.png){ width="200" align=left }](https://osugaming.sekai.team/)  
-                **比赛名称** : [osu!gaming CTF 2025](https://osugaming.sekai.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-10-25 10:00:00 - 2025-10-27 10:00:00 UTC+8  
-                **比赛权重** : 21.87  
-                **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
-                **添加日历** : https://ctftime.org/event/2801.ics  
                 
