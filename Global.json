@@ -648,18 +648,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Nullcon Goa HackIM 2026 CTF",
-        "比赛时间": "2026-02-07 16:30:00 - 2026-02-08 16:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3066.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.nullcon.net/",
-        "比赛标志": "https://ctftime.org/media/events/a3838829dc3fcbbebcc062b58d405747_1.png",
-        "比赛权重": "24.72",
-        "赛事主办": "ENOFLAG (https://ctftime.org/team/1438)",
-        "比赛ID": "27",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "DUCKERZ CTF 2026",
         "比赛时间": "2026-02-07 17:00:00 - 2026-02-08 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3067.ics",
@@ -684,6 +672,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "Nullcon Goa HackIM 2026 CTF",
+        "比赛时间": "2026-02-07 16:30:00 - 2026-02-08 16:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3066.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.nullcon.net/",
+        "比赛标志": "https://ctftime.org/media/events/a3838829dc3fcbbebcc062b58d405747_1.png",
+        "比赛权重": "24.72",
+        "赛事主办": "ENOFLAG (https://ctftime.org/team/1438)",
+        "比赛ID": "27",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "BITSCTF 2026 [Postponed]",
         "比赛时间": "2026-02-06 13:30:00 - 2026-02-08 13:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3047.ics",
@@ -702,7 +702,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.pascalctf.it/",
         "比赛标志": "https://ctftime.org/media/events/log.jpg",
-        "比赛权重": "0",
+        "比赛权重": "23.91",
         "赛事主办": "Paolo (https://ctftime.org/team/263145)",
         "比赛ID": "1242",
         "比赛状态": "past"
@@ -1869,18 +1869,6 @@
         "比赛权重": "0.00",
         "赛事主办": "LoveFromMimic (https://ctftime.org/team/364644)",
         "比赛ID": "1212",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "RSTCON 2025 CTF",
-        "比赛时间": "2025-10-25 03:00:00 - 2025-10-26 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2865.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://mctf.io/rstcon25",
-        "比赛标志": "https://ctftime.org/media/events/RSTCON-BLK.png",
-        "比赛权重": "24.00",
-        "赛事主办": "RSTCON (https://ctftime.org/team/281202)",
-        "比赛ID": "1125",
         "比赛状态": "past"
     }
 ]
