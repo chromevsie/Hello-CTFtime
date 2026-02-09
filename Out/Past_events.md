@@ -76,7 +76,7 @@ comments: true
     **比赛名称** : [Eschaton CTF 2026 Quals](https://eschaton.mcsc.space/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-01-31 12:30:00 - 2026-02-01 12:30:00 UTC+8  
-    **比赛权重** : 23.61  
+    **比赛权重** : 23.68  
     **赛事主办** : Team MCSC (https://ctftime.org/team/418958)  
     **添加日历** : https://ctftime.org/event/3072.ics  
     
@@ -193,7 +193,7 @@ comments: true
     **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
-    **比赛权重** : 28.90  
+    **比赛权重** : 28.96  
     **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
     **添加日历** : https://ctftime.org/event/3024.ics  
     
