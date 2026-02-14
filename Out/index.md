@@ -455,15 +455,6 @@
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2916.ics  
                 
-            ??? Quote "[0xFUN CTF 2026](https://ctf.0xfun.org/)"  
-                [![](https://ctftime.org/media/events/image_4.png){ width="200" align=left }](https://ctf.0xfun.org/)  
-                **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-13 02:00:00 - 2026-02-15 02:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : 0xFUN (https://ctftime.org/team/354033)  
-                **添加日历** : https://ctftime.org/event/3081.ics  
-                
             ??? Quote "[Crackmes.one Reverse Engineering CTF 2026](https://crackmesone.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/221804609.png){ width="200" align=left }](https://crackmesone.ctfd.io/)  
                 **比赛名称** : [Crackmes.one Reverse Engineering CTF 2026](https://crackmesone.ctfd.io/)  
@@ -495,6 +486,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[0xFUN CTF 2026](https://ctf.0xfun.org/)"  
+                [![](https://ctftime.org/media/events/image_4.png){ width="200" align=left }](https://ctf.0xfun.org/)  
+                **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-02-13 02:00:00 - 2026-02-15 02:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : 0xFUN (https://ctftime.org/team/354033)  
+                **添加日历** : https://ctftime.org/event/3081.ics  
+                
             ??? Quote "[EncipherX CTF 4.0](https://encipherx.in/)"  
                 [![](https://ctftime.org/media/events/EncipherX_logo.png){ width="200" align=left }](https://encipherx.in/)  
                 **比赛名称** : [EncipherX CTF 4.0](https://encipherx.in/)  
@@ -1385,13 +1385,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2929.ics  
-                
-            ??? Quote "[AltayCTF 2025](https://university.altayctf.ru/2025)"  
-                [![](https://ctftime.org/media/events/0_2.png){ width="200" align=left }](https://university.altayctf.ru/2025)  
-                **比赛名称** : [AltayCTF 2025](https://university.altayctf.ru/2025)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-10-26 18:00:00 - 2025-10-27 03:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : SharLike (https://ctftime.org/team/16172)  
-                **添加日历** : https://ctftime.org/event/2979.ics  
                 
