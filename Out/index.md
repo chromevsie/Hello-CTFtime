@@ -482,15 +482,6 @@
                 **赛事主办** : crackmes.one (https://ctftime.org/team/388934)  
                 **添加日历** : https://ctftime.org/event/3014.ics  
                 
-            ??? Quote "[Breach Point CTF - Siege Of Troy(Online Round)](https://breachpoint.live/)"  
-                [![](https://ctftime.org/media/events/SIEGE_O_TROY_Trust_Was_the_Vulnerability..jpg){ width="200" align=left }](https://breachpoint.live/)  
-                **比赛名称** : [Breach Point CTF - Siege Of Troy(Online Round)](https://breachpoint.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-14 15:30:00 - 2026-02-15 15:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : BreachPoint-SOT (https://ctftime.org/team/419090)  
-                **添加日历** : https://ctftime.org/event/3075.ics  
-                
             ??? Quote "[TaipanByte’s Chart CTF](https://chart.taipanbyte.ru/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://chart.taipanbyte.ru/)  
                 **比赛名称** : [TaipanByte’s Chart CTF](https://chart.taipanbyte.ru/)  
@@ -504,6 +495,15 @@
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[Breach Point CTF - Siege Of Troy(Online Round)](https://breachpoint.live/)"  
+                [![](https://ctftime.org/media/events/SIEGE_O_TROY_Trust_Was_the_Vulnerability..jpg){ width="200" align=left }](https://breachpoint.live/)  
+                **比赛名称** : [Breach Point CTF - Siege Of Troy(Online Round)](https://breachpoint.live/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-02-14 15:30:00 - 2026-02-15 15:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : BreachPoint-SOT (https://ctftime.org/team/419090)  
+                **添加日历** : https://ctftime.org/event/3075.ics  
+                
             ??? Quote "[0xFUN CTF 2026](https://ctf.0xfun.org/)"  
                 [![](https://ctftime.org/media/events/image_4.png){ width="200" align=left }](https://ctf.0xfun.org/)  
                 **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
@@ -1394,13 +1394,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2931.ics  
-                
-            ??? Quote "[Iran Tech Olympics Attack-Defense 2025](https://ctf.olympics.tech/)"  
-                [![](https://ctftime.org/media/events/3bfa72e3e10491d8b3bd43a8153aad1e.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
-                **比赛名称** : [Iran Tech Olympics Attack-Defense 2025](https://ctf.olympics.tech/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-10-27 14:30:00 - 2025-10-28 02:30:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-                **添加日历** : https://ctftime.org/event/2929.ics  
                 
