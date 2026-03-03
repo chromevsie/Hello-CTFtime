@@ -797,6 +797,10 @@
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2907.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[KI CTF 2026](https://cyberconclave.yugam.in/)"  
                 [![](https://ctftime.org/media/events/cyber-conclave-ki-ctf_1.png){ width="200" align=left }](https://cyberconclave.yugam.in/)  
                 **比赛名称** : [KI CTF 2026](https://cyberconclave.yugam.in/)  
@@ -806,10 +810,6 @@
                 **赛事主办** : YUGAM KUMARAGURU (https://ctftime.org/team/425387)  
                 **添加日历** : https://ctftime.org/event/3167.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Winja CTF | Nullcon Goa 2026](https://ctf.winja.org/)"  
                 [![](https://ctftime.org/media/events/winja-logo-transparent_2_1.png){ width="200" align=left }](https://ctf.winja.org/)  
                 **比赛名称** : [Winja CTF | Nullcon Goa 2026](https://ctf.winja.org/)  
@@ -1700,13 +1700,4 @@
                 **比赛权重** : 25.00  
                 **赛事主办** : Infobahn (https://ctftime.org/team/364723)  
                 **添加日历** : https://ctftime.org/event/2878.ics  
-                
-            ??? Quote "[CTF@AC - Finals](https://ctf.ac.upt.ro/)"  
-                [![](https://ctftime.org/media/events/2338e2e4033e4bf196b4e6c5f4f9b20d.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
-                **比赛名称** : [CTF@AC - Finals](https://ctf.ac.upt.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-07 23:00:00 - 2025-11-09 17:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
-                **添加日历** : https://ctftime.org/event/2921.ics  
                 
