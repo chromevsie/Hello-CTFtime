@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[tkbctf5](https://alpacahack.com/ctfs/tkbctf5)"  
-    [![](https://ctftime.org/media/events/tkbctf_logo.png){ width="200" align=left }](https://alpacahack.com/ctfs/tkbctf5)  
-    **比赛名称** : [tkbctf5](https://alpacahack.com/ctfs/tkbctf5)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-14 13:00:00 - 2026-03-15 13:00:00 UTC+8  
-    **比赛权重** : 13.00  
-    **赛事主办** : TPC (https://ctftime.org/team/222485)  
-    **添加日历** : https://ctftime.org/event/3091.ics  
-    
 ??? Quote "[Dark ctf](https://crack-on.live/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://crack-on.live/)  
     **比赛名称** : [Dark ctf](https://crack-on.live/)  
@@ -32,7 +23,7 @@ comments: true
     **比赛名称** : [MIPT CTF Quals 2026](https://board.miptctf.ru/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-03-14 17:00:00 - 2026-03-15 17:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : L0stAx3s (https://ctftime.org/team/354995)  
     **添加日历** : https://ctftime.org/event/3162.ics  
     
@@ -41,7 +32,7 @@ comments: true
     **比赛名称** : [Lag N Crash 6.0](https://lagncra.sh/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-03-16 12:00:00 - 2026-03-17 18:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : Interpoly (https://ctftime.org/team/424494)  
     **添加日历** : https://ctftime.org/event/3165.ics  
     
@@ -77,7 +68,7 @@ comments: true
     **比赛名称** : [Curiosity CTF 2026](https://curiosityctf.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-03-21 03:00:00 - 2026-03-23 03:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : Curioѕity (https://ctftime.org/team/392973)  
     **添加日历** : https://ctftime.org/event/3050.ics  
     
@@ -230,7 +221,7 @@ comments: true
     **比赛名称** : [Hack for a Change 2026 March: UN SDG 3](https://www.hackforachange.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-03-31 08:00:00 - 2026-04-02 07:59:59 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
     **添加日历** : https://ctftime.org/event/3184.ics  
     
@@ -266,7 +257,7 @@ comments: true
     **比赛名称** : [CITEFLAG QUALS 2026](https://ctf.citeflag.online/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-04-04 06:00:00 - 2026-04-05 06:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : CITEFLAG (https://ctftime.org/team/425411)  
     **添加日历** : https://ctftime.org/event/3175.ics  
     
@@ -401,7 +392,7 @@ comments: true
     **比赛名称** : [KubSTU CTF](https://kubstu-ctf.online/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-04-18 15:00:00 - 2026-04-20 03:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
     **添加日历** : https://ctftime.org/event/3177.ics  
     
@@ -500,7 +491,7 @@ comments: true
     **比赛名称** : [From Dusk Till Dawn Quals](https://romhack.io/romhack-camp-ctf/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-05-09 17:00:00 - 2026-05-10 17:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
     **添加日历** : https://ctftime.org/event/3111.ics  
     
@@ -572,7 +563,7 @@ comments: true
     **比赛名称** : [SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-06-07 18:00:00 - 2026-06-08 18:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : Singapore Students Merger (https://ctftime.org/team/299075)  
     **添加日历** : https://ctftime.org/event/2913.ics  
     
@@ -635,7 +626,7 @@ comments: true
     **比赛名称** : [OmniCTF 2026 Quals](https://omnictf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-07-17 23:00:00 - 2026-07-19 23:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
     **添加日历** : https://ctftime.org/event/3104.ics  
     
@@ -680,7 +671,7 @@ comments: true
     **比赛名称** : [gaslightCTF 2026](https://gaslightctf.cooking/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-08-14 20:00:00 - 2026-08-17 20:00:00 UTC+8  
-    **比赛权重** : 13.00  
+    **比赛权重** : 0.00  
     **赛事主办** : gaslighting (https://ctftime.org/team/299906)  
     **添加日历** : https://ctftime.org/event/3181.ics  
     
@@ -743,7 +734,7 @@ comments: true
     **比赛名称** : [WolvCTF 2026](https://wolvctf.io/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-11-14 07:00:00 - 2026-11-16 07:00:00 UTC+8  
-    **比赛权重** : 33.00  
+    **比赛权重** : 0.00  
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
     
