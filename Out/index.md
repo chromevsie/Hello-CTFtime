@@ -581,6 +581,10 @@
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2937.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[PUTCyberDays CTF 2026](https://putcyberdays.pl/en/)"  
                 [![](https://ctftime.org/media/events/logo_wydarzenia.png){ width="200" align=left }](https://putcyberdays.pl/en/)  
                 **比赛名称** : [PUTCyberDays CTF 2026](https://putcyberdays.pl/en/)  
@@ -590,10 +594,6 @@
                 **赛事主办** : PUTrequest_ (https://ctftime.org/team/196643)  
                 **添加日历** : https://ctftime.org/event/3202.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[KAALCHAKRA CTF Finals](https://kaalchakractf.com/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://kaalchakractf.com/)  
                 **比赛名称** : [KAALCHAKRA CTF Finals](https://kaalchakractf.com/)  
@@ -1484,13 +1484,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : MetaCTF (https://ctftime.org/team/72254)  
                 **添加日历** : https://ctftime.org/event/3079.ics  
-                
-            ??? Quote "[KnightCTF 2026](https://2026.knightctf.com/)"  
-                [![](https://ctftime.org/media/events/knightctf-logo.png){ width="200" align=left }](https://2026.knightctf.com/)  
-                **比赛名称** : [KnightCTF 2026](https://2026.knightctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-01-20 23:00:00 - 2026-01-21 23:00:00 UTC+8  
-                **比赛权重** : 22.21  
-                **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
-                **添加日历** : https://ctftime.org/event/3053.ics  
                 
