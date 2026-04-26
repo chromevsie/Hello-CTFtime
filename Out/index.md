@@ -554,6 +554,10 @@
                 **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
                 **添加日历** : https://ctftime.org/event/3056.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[CTF@AC26 - Quals](https://ctf.ac.upt.ro/)"  
                 [![](https://ctftime.org/media/events/CTFAC26.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
                 **比赛名称** : [CTF@AC26 - Quals](https://ctf.ac.upt.ro/)  
@@ -563,10 +567,6 @@
                 **赛事主办** : UPT-CTF (https://ctftime.org/team/276942)  
                 **添加日历** : https://ctftime.org/event/3192.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Alfa CTF 2026](https://alfactf.ru/)"  
                 [![](https://ctftime.org/media/events/IMG_0149.jpeg){ width="200" align=left }](https://alfactf.ru/)  
                 **比赛名称** : [Alfa CTF 2026](https://alfactf.ru/)  
@@ -1457,13 +1457,4 @@
                 **比赛权重** : 23.20  
                 **赛事主办** : DUCKERZ (https://ctftime.org/team/372036)  
                 **添加日历** : https://ctftime.org/event/3067.ics  
-                
-            ??? Quote "[Nullcon Goa HackIM 2026 CTF](https://ctf.nullcon.net/)"  
-                [![](https://ctftime.org/media/events/a3838829dc3fcbbebcc062b58d405747_1.png){ width="200" align=left }](https://ctf.nullcon.net/)  
-                **比赛名称** : [Nullcon Goa HackIM 2026 CTF](https://ctf.nullcon.net/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-07 16:30:00 - 2026-02-08 16:30:00 UTC+8  
-                **比赛权重** : 24.72  
-                **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
-                **添加日历** : https://ctftime.org/event/3066.ics  
                 
