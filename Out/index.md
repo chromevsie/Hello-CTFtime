@@ -581,6 +581,10 @@
                 **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
                 **添加日历** : https://ctftime.org/event/3142.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[RAZER CTF 2026](http://ctf.droidecks.sbs/)"  
                 [![](https://ctftime.org/media/events/logo_125.png){ width="200" align=left }](http://ctf.droidecks.sbs/)  
                 **比赛名称** : [RAZER CTF 2026](http://ctf.droidecks.sbs/)  
@@ -590,10 +594,6 @@
                 **赛事主办** : Droidex (https://ctftime.org/team/430693)  
                 **添加日历** : https://ctftime.org/event/3241.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[UniVsThreats 26 Finals CTF]()"  
                 [![](https://ctftime.org/media/events/8214e0b3661f119e06c811dd7538cc0d.jpg){ width="200" align=left }]()  
                 **比赛名称** : [UniVsThreats 26 Finals CTF]()  
@@ -1484,13 +1484,4 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
                 **添加日历** : https://ctftime.org/event/3088.ics  
-                
-            ??? Quote "[BITSCTF 2026](https://ctf.bitskrieg.in/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.bitskrieg.in/)  
-                **比赛名称** : [BITSCTF 2026](https://ctf.bitskrieg.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-20 13:30:00 - 2026-02-22 13:30:00 UTC+8  
-                **比赛权重** : 25.54  
-                **赛事主办** : BITSkrieg (https://ctftime.org/team/22310)  
-                **添加日历** : https://ctftime.org/event/3122.ics  
                 
