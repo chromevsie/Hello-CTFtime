@@ -419,6 +419,10 @@
                 **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
                 **添加日历** : https://ctftime.org/event/3205.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[ZEROBREACH CTF](http://ctf.cyberspacevr.in/)"  
                 [![](https://ctftime.org/media/events/WhatsApp_Image_2026-05-03_at_1.43.58_AM_1.jpeg){ width="200" align=left }](http://ctf.cyberspacevr.in/)  
                 **比赛名称** : [ZEROBREACH CTF](http://ctf.cyberspacevr.in/)  
@@ -428,10 +432,6 @@
                 **赛事主办** : CyberSpaceVR (https://ctftime.org/team/434393)  
                 **添加日历** : https://ctftime.org/event/3271.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[SecLeaf Q2 CTF 2026](https://ctf.secleaf.tech/)"  
                 [![](https://ctftime.org/media/events/CTF_3.png){ width="200" align=left }](https://ctf.secleaf.tech/)  
                 **比赛名称** : [SecLeaf Q2 CTF 2026](https://ctf.secleaf.tech/)  
@@ -1322,13 +1322,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : Hexploit Alliance (https://ctftime.org/team/278003)  
                 **添加日历** : https://ctftime.org/event/3027.ics  
-                
-            ??? Quote "[CodeVinci CTF 2026](https://challs.codevinci.it/)"  
-                [![](https://ctftime.org/media/events/Logo_.png){ width="200" align=left }](https://challs.codevinci.it/)  
-                **比赛名称** : [CodeVinci CTF 2026](https://challs.codevinci.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-07 22:00:00 - 2026-03-08 03:00:00 UTC+8  
-                **比赛权重** : 18.57  
-                **赛事主办** : code-vinci (https://ctftime.org/team/365817)  
-                **添加日历** : https://ctftime.org/event/3101.ics  
                 
