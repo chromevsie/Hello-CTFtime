@@ -446,15 +446,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Hackअस्त्र](https://ctf.hackastra.tech/)"  
-                [![](https://ctftime.org/media/events/Logo_16.png){ width="200" align=left }](https://ctf.hackastra.tech/)  
-                **比赛名称** : [Hackअस्त्र](https://ctf.hackastra.tech/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-29 18:15:00 - 2026-05-31 01:15:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Ethical HCK (https://ctftime.org/team/434372)  
-                **添加日历** : https://ctftime.org/event/3270.ics  
-                
             ??? Quote "[Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)"  
                 [![](https://ctftime.org/media/events/logohwcolor_17.png){ width="200" align=left }](https://hwc.tf/)  
                 **比赛名称** : [Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)  
@@ -500,6 +491,19 @@
                 **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
                 **添加日历** : https://ctftime.org/event/3178.ics  
                 
+            ??? Quote "[bhackari CTF 2026](https://ctf.bhackari.it/)"  
+                [![](https://ctftime.org/media/events/bhackari_logo_squared_white.png){ width="200" align=left }](https://ctf.bhackari.it/)  
+                **比赛名称** : [bhackari CTF 2026](https://ctf.bhackari.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-30 18:00:00 - 2026-05-31 18:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : bhackari (https://ctftime.org/team/194130)  
+                **添加日历** : https://ctftime.org/event/3302.ics  
+                
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Pwn2Play Open CTF](https://pwn2play.biterra.co/)"  
                 [![](https://ctftime.org/media/events/2025.png){ width="200" align=left }](https://pwn2play.biterra.co/)  
                 **比赛名称** : [Pwn2Play Open CTF](https://pwn2play.biterra.co/)  
@@ -518,19 +522,6 @@
                 **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
                 **添加日历** : https://ctftime.org/event/3243.ics  
                 
-            ??? Quote "[bhackari CTF 2026](https://ctf.bhackari.it/)"  
-                [![](https://ctftime.org/media/events/bhackari_logo_squared_white.png){ width="200" align=left }](https://ctf.bhackari.it/)  
-                **比赛名称** : [bhackari CTF 2026](https://ctf.bhackari.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-30 18:00:00 - 2026-05-31 18:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : bhackari (https://ctftime.org/team/194130)  
-                **添加日历** : https://ctftime.org/event/3302.ics  
-                
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[HSE CTF 2026](https://ctf.miem.hse.ru/)"  
                 [![](https://ctftime.org/media/events/vorona.png){ width="200" align=left }](https://ctf.miem.hse.ru/)  
                 **比赛名称** : [HSE CTF 2026](https://ctf.miem.hse.ru/)  
@@ -539,6 +530,15 @@
                 **比赛权重** : 0.00  
                 **赛事主办** : HSE CTF Crew (https://ctftime.org/team/436827)  
                 **添加日历** : https://ctftime.org/event/3313.ics  
+                
+            ??? Quote "[Hackअस्त्र](https://ctf.hackastra.tech/)"  
+                [![](https://ctftime.org/media/events/Logo_16.png){ width="200" align=left }](https://ctf.hackastra.tech/)  
+                **比赛名称** : [Hackअस्त्र](https://ctf.hackastra.tech/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-29 18:15:00 - 2026-05-31 01:15:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Ethical HCK (https://ctftime.org/team/434372)  
+                **添加日历** : https://ctftime.org/event/3270.ics  
                 
             ??? Quote "[ZEROBREACH CTF](http://ctf.cyberspacevr.in/)"  
                 [![](https://ctftime.org/media/events/WhatsApp_Image_2026-05-03_at_1.43.58_AM_1.jpeg){ width="200" align=left }](http://ctf.cyberspacevr.in/)  
@@ -1403,31 +1403,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : CyberHawks at UNG (https://ctftime.org/team/368776)  
                 **添加日历** : https://ctftime.org/event/3134.ics  
-                
-            ??? Quote "[Midnight Flag CTF - EXECUTION](https://midnightflag.fr/)"  
-                [![](https://ctftime.org/media/events/logo_119.png){ width="200" align=left }](https://midnightflag.fr/)  
-                **比赛名称** : [Midnight Flag CTF - EXECUTION](https://midnightflag.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-14 04:00:00 - 2026-03-16 04:00:00 UTC+8  
-                **比赛权重** : 24.50  
-                **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
-                **添加日历** : https://ctftime.org/event/3105.ics  
-                
-            ??? Quote "[PsychCTF 2026](https://psychctf.xyz/)"  
-                [![](https://ctftime.org/media/events/SAIC_logo_icon_min.png){ width="200" align=left }](https://psychctf.xyz/)  
-                **比赛名称** : [PsychCTF 2026](https://psychctf.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-14 02:30:00 - 2026-03-16 02:30:00 UTC+8  
-                **比赛权重** : 24.51  
-                **赛事主办** : SAIC_IITMandi (https://ctftime.org/team/251023)  
-                **添加日历** : https://ctftime.org/event/3166.ics  
-                
-            ??? Quote "[RedShift.ZeroPlusCTF-3](https://redshiftctf.ru/)"  
-                [![](https://ctftime.org/media/events/b00d5118-7ef3-4a84-92f4-a0929baae219_1.jpg){ width="200" align=left }](https://redshiftctf.ru/)  
-                **比赛名称** : [RedShift.ZeroPlusCTF-3](https://redshiftctf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-13 20:00:00 - 2026-03-15 20:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
-                **添加日历** : https://ctftime.org/event/3191.ics  
                 
