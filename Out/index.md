@@ -500,7 +500,7 @@
                 **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-30 02:00:00 - 2026-06-01 02:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
                 **添加日历** : https://ctftime.org/event/3209.ics  
                 
@@ -518,7 +518,7 @@
                 **比赛名称** : [HASBLCTF26](https://www.hasblctf.tech/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-30 01:00:00 - 2026-06-01 01:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : ExploitsFromHeaven1337 (https://ctftime.org/team/435592)  
                 **添加日历** : https://ctftime.org/event/3301.ics  
                 
