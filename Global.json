@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "CyberSci Nationals 2025-2026",
-        "比赛时间": "2026-06-13 21:00:00 - 2026-06-15 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3125.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cybersecuritychallenge.ca/",
-        "比赛标志": "https://ctftime.org/media/events/a6670ab6b53ad3924988790f984c0fc4.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
-        "比赛ID": "643",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Crypto CTF 2026",
         "比赛时间": "2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3034.ics",
@@ -708,6 +696,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "CyberSci Nationals 2025-2026",
+        "比赛时间": "2026-06-13 21:00:00 - 2026-06-15 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3125.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cybersecuritychallenge.ca/",
+        "比赛标志": "https://ctftime.org/media/events/a6670ab6b53ad3924988790f984c0fc4.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
+        "比赛ID": "643",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "DalCTF 2026",
         "比赛时间": "2026-06-06 21:00:00 - 2026-06-07 23:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3320.ics",
@@ -738,7 +738,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.cyberhx.com/",
         "比赛标志": "https://ctftime.org/media/events/ChatGPT_Image_May_20_2026_07_34_00_PM.png",
-        "比赛权重": "0",
+        "比赛权重": "24.33",
         "赛事主办": "CyberXoX (https://ctftime.org/team/374041)",
         "比赛ID": "1595",
         "比赛状态": "past"
