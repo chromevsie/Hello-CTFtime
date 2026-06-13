@@ -1,24 +1,6 @@
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Crypto CTF 2026](https://cr.yp.toc.tf/)"  
-            [![](https://ctftime.org/media/events/cryptoctf_logo.jpg){ width="200" align=left }](https://cr.yp.toc.tf/)  
-            **比赛名称** : [Crypto CTF 2026](https://cr.yp.toc.tf/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8  
-            **比赛权重** : 91.00  
-            **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-            **添加日历** : https://ctftime.org/event/3034.ics  
-            
-        ??? Quote "[Operation Heist CTF 2026](https://registration.hackkap.com/)"  
-            [![](https://ctftime.org/media/events/preloader.png){ width="200" align=left }](https://registration.hackkap.com/)  
-            **比赛名称** : [Operation Heist CTF 2026](https://registration.hackkap.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : HACK KAP (https://ctftime.org/team/436808)  
-            **添加日历** : https://ctftime.org/event/3327.ics  
-            
         ??? Quote "[SCTF 2026](https://sctf2026.xctf.org.cn/)"  
             [![](https://ctftime.org/media/events/logo_18.jpg){ width="200" align=left }](https://sctf2026.xctf.org.cn/)  
             **比赛名称** : [SCTF 2026](https://sctf2026.xctf.org.cn/)  
@@ -36,4 +18,22 @@
             **比赛权重** : 0.00  
             **赛事主办** : sieberr.live (https://ctftime.org/team/387795)  
             **添加日历** : https://ctftime.org/event/3299.ics  
+            
+        ??? Quote "[BCACTF 7.0](https://www.bcactf.com/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://www.bcactf.com/)  
+            **比赛名称** : [BCACTF 7.0](https://www.bcactf.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-06-19 18:00:00 - 2026-06-22 18:00:00 UTC+8  
+            **比赛权重** : 65.05  
+            **赛事主办** : Bing Chilling Academies (https://ctftime.org/team/283028)  
+            **添加日历** : https://ctftime.org/event/3246.ics  
+            
+        ??? Quote "[RIFFHACK: Black Market Break-In](http://riffhack.biterra.co/)"  
+            [![](https://ctftime.org/media/events/image_1_1.png){ width="200" align=left }](http://riffhack.biterra.co/)  
+            **比赛名称** : [RIFFHACK: Black Market Break-In](http://riffhack.biterra.co/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-06-19 20:00:00 - 2026-06-22 08:00:00 UTC+8  
+            **比赛权重** : 0  
+            **赛事主办** : Biterra (https://ctftime.org/team/414340)  
+            **添加日历** : https://ctftime.org/event/3297.ics  
             
