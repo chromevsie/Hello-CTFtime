@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[SCTF 2026](https://sctf2026.xctf.org.cn/)"  
-                [![](https://ctftime.org/media/events/logo_18.jpg){ width="200" align=left }](https://sctf2026.xctf.org.cn/)  
-                **比赛名称** : [SCTF 2026](https://sctf2026.xctf.org.cn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-14 09:00:00 - 2026-06-15 09:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Syclover (https://ctftime.org/team/455)  
-                **添加日历** : https://ctftime.org/event/3314.ics  
-                
             ??? Quote "[Sieberrsec CTF 7.0](https://sieberr.live/)"  
                 [![](https://ctftime.org/media/events/icon_10.png){ width="200" align=left }](https://sieberr.live/)  
                 **比赛名称** : [Sieberrsec CTF 7.0](https://sieberr.live/)  
@@ -544,6 +535,15 @@
                 **比赛权重** : 0  
                 **赛事主办** : HACK KAP (https://ctftime.org/team/436808)  
                 **添加日历** : https://ctftime.org/event/3327.ics  
+                
+            ??? Quote "[SCTF 2026](https://sctf2026.xctf.org.cn/)"  
+                [![](https://ctftime.org/media/events/logo_18.jpg){ width="200" align=left }](https://sctf2026.xctf.org.cn/)  
+                **比赛名称** : [SCTF 2026](https://sctf2026.xctf.org.cn/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-06-14 09:00:00 - 2026-06-15 09:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Syclover (https://ctftime.org/team/455)  
+                **添加日历** : https://ctftime.org/event/3314.ics  
                 
     === "*已经结束*"
         === "国内赛事"
