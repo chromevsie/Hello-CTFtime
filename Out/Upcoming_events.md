@@ -216,6 +216,15 @@ comments: true
     **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
     **添加日历** : https://ctftime.org/event/3346.ics  
     
+??? Quote "[DefCamp Capture the Flag (D-CTF) 2026 Quals](https://dctf26-quals.cyber-edu.co/)"  
+    [![](https://ctftime.org/media/events/2c31f15c30b130055d9133f2390adf6c.jpg){ width="200" align=left }](https://dctf26-quals.cyber-edu.co/)  
+    **比赛名称** : [DefCamp Capture the Flag (D-CTF) 2026 Quals](https://dctf26-quals.cyber-edu.co/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-18 18:00:00 - 2026-09-20 18:00:00 UTC+8  
+    **比赛权重** : 69.75  
+    **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
+    **添加日历** : https://ctftime.org/event/3392.ics  
+    
 ??? Quote "[CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)"  
     [![](https://ctftime.org/media/events/csawlogo_1.png){ width="200" align=left }](https://ctf.csaw.io/)  
     **比赛名称** : [CSAW CTF Qualification Round 2026](https://ctf.csaw.io/)  
@@ -275,7 +284,7 @@ comments: true
     **比赛名称** : [Securinets CTF Quals 2026](https://quals.securinets.tn/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8  
-    **比赛权重** : 0.00  
+    **比赛权重** : 85.12  
     **赛事主办** : Securinets (https://ctftime.org/team/5084)  
     **添加日历** : https://ctftime.org/event/3364.ics  
     
