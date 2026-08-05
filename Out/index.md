@@ -482,6 +482,11 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[Kali Team - CTF 26](https://kali-team.online/)"  
                 [![](https://ctftime.org/media/events/1ec82fa0-76a8-4693-9acc-fe4cc3c3b91f.png){ width="200" align=left }](https://kali-team.online/)  
                 **比赛名称** : [Kali Team - CTF 26](https://kali-team.online/)  
@@ -491,10 +496,6 @@
                 **赛事主办** : Kali Team (https://ctftime.org/team/387378)  
                 **添加日历** : https://ctftime.org/event/3328.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[SCAN 2026 Online Qualifier](https://scan.sx/)"  
                 [![](https://ctftime.org/media/events/32x32_icon.png){ width="200" align=left }](https://scan.sx/)  
                 **比赛名称** : [SCAN 2026 Online Qualifier](https://scan.sx/)  
@@ -1385,13 +1386,4 @@
                 **比赛权重** : 32.47  
                 **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
                 **添加日历** : https://ctftime.org/event/3234.ics  
-                
-            ??? Quote "[BlueHens CTF 2026](https://bluehens.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/1649244ad20feb4c02d8740a7cb035d3.png){ width="200" align=left }](https://bluehens.ctfd.io/)  
-                **比赛名称** : [BlueHens CTF 2026](https://bluehens.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-18 01:00:00 - 2026-04-19 13:00:00 UTC+8  
-                **比赛权重** : 44.77  
-                **赛事主办** : Blue Hens (https://ctftime.org/team/64660)  
-                **添加日历** : https://ctftime.org/event/3235.ics  
                 
