@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/ctftime_logo_1.png){ width="200" align=left }](https://starpwn.ctfd.io/)  
-                **比赛名称** : [AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-07 01:00:00 - 2026-08-10 02:00:00 UTC+8  
-                **比赛权重** : 24.65  
-                **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
-                **添加日历** : https://ctftime.org/event/3342.ics  
-                
             ??? Quote "[RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)"  
                 [![](https://ctftime.org/media/events/Robotic_Hacking_Community_on_black-h_1.png){ width="200" align=left }](https://www.robotichackingcommunity.com/)  
                 **比赛名称** : [RoboHack AI CTF (Robotic Hacking Community at DEFCON 34)](https://www.robotichackingcommunity.com/)  
@@ -473,7 +464,15 @@
         === "国内赛事"
     
         === "国外赛事"
-    
+            ??? Quote "[AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/ctftime_logo_1.png){ width="200" align=left }](https://starpwn.ctfd.io/)  
+                **比赛名称** : [AEROSPACE VILLAGE STARPWN CTF](https://starpwn.ctfd.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-07 01:00:00 - 2026-08-10 02:00:00 UTC+8  
+                **比赛权重** : 24.65  
+                **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
+                **添加日历** : https://ctftime.org/event/3342.ics  
+                
     === "*已经结束*"
         === "国内赛事"
     
@@ -870,7 +869,7 @@
                 **比赛名称** : [DalCTF 2026](https://dalctf2026.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-06-06 21:00:00 - 2026-06-07 23:00:00 UTC+8  
-                **比赛权重** : 24.89  
+                **比赛权重** : 24.90  
                 **赛事主办** : Status 418 (https://ctftime.org/team/361970)  
                 **添加日历** : https://ctftime.org/event/3320.ics  
                 
@@ -964,9 +963,9 @@
                 **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
                 **添加日历** : https://ctftime.org/event/3247.ics  
                 
-            ??? Quote "[THEM?!CTF 2026](https://themctf.com/)"  
-                [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://themctf.com/)  
-                **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
+            ??? Quote "[THEM?!CTF 2026](https://ctf.themctf.com/)"  
+                [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://ctf.themctf.com/)  
+                **比赛名称** : [THEM?!CTF 2026](https://ctf.themctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-30 02:00:00 - 2026-06-01 02:00:00 UTC+8  
                 **比赛权重** : 25.00  
