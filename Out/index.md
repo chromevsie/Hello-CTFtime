@@ -455,6 +455,10 @@
                 **赛事主办** : TallDwarf Hosting (https://ctftime.org/team/443103)  
                 **添加日历** : https://ctftime.org/event/3394.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[PECAN+ CTF 2026](https://pecanplus.org/)"  
                 [![](https://ctftime.org/media/events/pecanlogo_1.png){ width="200" align=left }](https://pecanplus.org/)  
                 **比赛名称** : [PECAN+ CTF 2026](https://pecanplus.org/)  
@@ -464,10 +468,6 @@
                 **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
                 **添加日历** : https://ctftime.org/event/3411.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)"  
                 [![](https://ctftime.org/media/events/Ex0rcists_logo.jpg){ width="200" align=left }](https://stjctf2026.tamilctf.com/)  
                 **比赛名称** : [$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)  
@@ -1358,13 +1358,4 @@
                 **比赛权重** : 56.25  
                 **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
                 **添加日历** : https://ctftime.org/event/3137.ics  
-                
-            ??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
-                [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
-                **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-08 18:00:00 - 2026-05-11 01:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
-                **添加日历** : https://ctftime.org/event/3018.ics  
                 
