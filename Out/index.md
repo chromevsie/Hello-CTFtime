@@ -419,6 +419,11 @@
         === "国内赛事"
     
         === "国外赛事"
+    
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)"  
                 [![](https://ctftime.org/media/events/volgactf_2026_logo.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2026/final/)  
                 **比赛名称** : [VolgaCTF 2026 Final](https://volgactf.ru/en/volgactf-2026/final/)  
@@ -428,10 +433,6 @@
                 **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
                 **添加日历** : https://ctftime.org/event/3265.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[PwnSec CTF 2026](https://pwnsec.ctf.ae/)"  
                 [![](https://ctftime.org/media/events/pwnsec_square_gradient_512.png){ width="200" align=left }](https://pwnsec.ctf.ae/)  
                 **比赛名称** : [PwnSec CTF 2026](https://pwnsec.ctf.ae/)  
@@ -1322,13 +1323,4 @@
                 **比赛权重** : 0  
                 **赛事主办** : TyumGUard (https://ctftime.org/team/380152)  
                 **添加日历** : https://ctftime.org/event/3214.ics  
-                
-            ??? Quote "[DaVinciCTF 2026](https://dvc.tf/)"  
-                [![](https://ctftime.org/media/events/davincictf_2026_2.png){ width="200" align=left }](https://dvc.tf/)  
-                **比赛名称** : [DaVinciCTF 2026](https://dvc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-16 16:00:00 - 2026-05-17 01:00:00 UTC+8  
-                **比赛权重** : 32.59  
-                **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
-                **添加日历** : https://ctftime.org/event/3132.ics  
                 
