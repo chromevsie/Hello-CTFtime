@@ -10,15 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[OmniCTF 2026 Finals](https://omnictf.com/)"  
-                [![](https://ctftime.org/media/events/Untitled_5.png){ width="200" align=left }](https://omnictf.com/)  
-                **比赛名称** : [OmniCTF 2026 Finals](https://omnictf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-19 14:00:00 - 2026-09-20 00:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
-                **添加日历** : https://ctftime.org/event/3401.ics  
-                
             ??? Quote "[07CTF 2026](https://ctf.0bscuri7y.in/)"  
                 [![](https://ctftime.org/media/events/logo_112_1.png){ width="200" align=left }](https://ctf.0bscuri7y.in/)  
                 **比赛名称** : [07CTF 2026](https://ctf.0bscuri7y.in/)  
@@ -464,15 +455,6 @@
                 **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
                 **添加日历** : https://ctftime.org/event/3412.ics  
                 
-            ??? Quote "[Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)"  
-                [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_3.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
-                **比赛名称** : [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-19 10:00:00 - 2026-09-19 16:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-                **添加日历** : https://ctftime.org/event/3431.ics  
-                
             ??? Quote "[WATCHLIST](https://ctf.xposedornot.com/)"  
                 [![](https://ctftime.org/media/events/WatchList_Twitter_Profile.png){ width="200" align=left }](https://ctf.xposedornot.com/)  
                 **比赛名称** : [WATCHLIST](https://ctf.xposedornot.com/)  
@@ -491,10 +473,28 @@
                 **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
                 **添加日历** : https://ctftime.org/event/3428.ics  
                 
+            ??? Quote "[OmniCTF 2026 Finals](https://omnictf.com/)"  
+                [![](https://ctftime.org/media/events/Untitled_5.png){ width="200" align=left }](https://omnictf.com/)  
+                **比赛名称** : [OmniCTF 2026 Finals](https://omnictf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-19 14:00:00 - 2026-09-20 00:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
+                **添加日历** : https://ctftime.org/event/3401.ics  
+                
     === "*已经结束*"
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)"  
+                [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_3.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
+                **比赛名称** : [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-19 10:00:00 - 2026-09-19 16:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+                **添加日历** : https://ctftime.org/event/3431.ics  
+                
             ??? Quote "[NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)"  
                 [![](https://ctftime.org/media/events/722217335_18086037686297664_317017320748858629_n.jpg){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
                 **比赛名称** : [NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)  
@@ -1385,13 +1385,4 @@
                 **比赛权重** : 24.53  
                 **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
                 **添加日历** : https://ctftime.org/event/3277.ics  
-                
-            ??? Quote "[0xV01D CTF 2026](https://0xv01d-ctf.xyz/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
-                **比赛名称** : [0xV01D CTF 2026](https://0xv01d-ctf.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-18 12:00:00 - 2026-05-20 12:00:00 UTC+8  
-                **比赛权重** : 19.48  
-                **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
-                **添加日历** : https://ctftime.org/event/3269.ics  
                 
