@@ -540,18 +540,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "07CTF 2026",
-        "比赛时间": "2026-09-19 20:00:00 - 2026-09-20 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3365.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.0bscuri7y.in/",
-        "比赛标志": "https://ctftime.org/media/events/logo_112_1.png",
-        "比赛权重": "23.71",
-        "赛事主办": "0bscuri7y (https://ctftime.org/team/370140)",
-        "比赛ID": "1360",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "LUN4R CTF Quals",
         "比赛时间": "2026-09-20 12:30:00 - 2026-09-21 00:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3435.ics",
@@ -562,6 +550,18 @@
         "赛事主办": "b33tro0t (https://ctftime.org/team/380826)",
         "比赛ID": "1685",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "07CTF 2026",
+        "比赛时间": "2026-09-19 20:00:00 - 2026-09-20 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3365.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.0bscuri7y.in/",
+        "比赛标志": "https://ctftime.org/media/events/logo_112_1.png",
+        "比赛权重": "23.71",
+        "赛事主办": "0bscuri7y (https://ctftime.org/team/370140)",
+        "比赛ID": "1360",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "OmniCTF 2026 Finals",
@@ -576,18 +576,6 @@
         "比赛状态": "past"
     },
     {
-        "比赛名称": "WATCHLIST",
-        "比赛时间": "2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3326.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.xposedornot.com/",
-        "比赛标志": "https://ctftime.org/media/events/WatchList_Twitter_Profile.png",
-        "比赛权重": "0",
-        "赛事主办": "WatchList CTF (https://ctftime.org/team/436923)",
-        "比赛ID": "1614",
-        "比赛状态": "past"
-    },
-    {
         "比赛名称": "z0d1ak CTF Finals",
         "比赛时间": "2026-09-19 11:30:00 - 2026-09-19 20:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3428.ics",
@@ -597,6 +585,18 @@
         "比赛权重": "0.00",
         "赛事主办": "z0d1ak (https://ctftime.org/team/373452)",
         "比赛ID": "1648",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "WATCHLIST",
+        "比赛时间": "2026-09-19 11:30:00 - 2026-09-20 11:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3326.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.xposedornot.com/",
+        "比赛标志": "https://ctftime.org/media/events/WatchList_Twitter_Profile.png",
+        "比赛权重": "0",
+        "赛事主办": "WatchList CTF (https://ctftime.org/team/436923)",
+        "比赛ID": "1614",
         "比赛状态": "past"
     },
     {
@@ -1749,18 +1749,6 @@
         "比赛权重": "0.00",
         "赛事主办": "CyberSpaceVR (https://ctftime.org/team/434393)",
         "比赛ID": "1592",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SecLeaf Q2 CTF 2026",
-        "比赛时间": "2026-05-23 22:00:00 - 2026-05-24 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3136.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://secleaf.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/CTF_3.png",
-        "比赛权重": "0.00",
-        "赛事主办": "SecLeaf (https://ctftime.org/team/421974)",
-        "比赛ID": "1509",
         "比赛状态": "past"
     }
 ]
