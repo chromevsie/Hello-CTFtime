@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[BreachPoint 2026](https://breachpoint.axios.live/)"  
-    [![](https://ctftime.org/media/events/logo-brc.jpg){ width="200" align=left }](https://breachpoint.axios.live/)  
-    **比赛名称** : [BreachPoint 2026](https://breachpoint.axios.live/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-09-25 12:00:00 - 2026-09-26 16:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : pulse_0x1337 (https://ctftime.org/team/448857)  
-    **添加日历** : https://ctftime.org/event/3451.ics  
-    
 ??? Quote "[NileCTF](https://nilectf.com/register)"  
     [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
     **比赛名称** : [NileCTF](https://nilectf.com/register)  
