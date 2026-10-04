@@ -325,15 +325,6 @@
                 **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
                 **添加日历** : https://ctftime.org/event/3049.ics  
                 
-            ??? Quote "[International Battle of Hackers 2026](https://battleofhackers.com/)"  
-                [![](https://ctftime.org/media/events/BOH_LOGO_ONLY_1.png){ width="200" align=left }](https://battleofhackers.com/)  
-                **比赛名称** : [International Battle of Hackers 2026](https://battleofhackers.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-14 08:30:00 - 2026-11-14 18:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : FSEC-SS (https://ctftime.org/team/436859)  
-                **添加日历** : https://ctftime.org/event/3390.ics  
-                
             ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
                 [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
                 **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  

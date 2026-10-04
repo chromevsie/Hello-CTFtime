@@ -420,18 +420,6 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "International Battle of Hackers 2026",
-        "比赛时间": "2026-11-14 08:30:00 - 2026-11-14 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3390.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://battleofhackers.com/",
-        "比赛标志": "https://ctftime.org/media/events/BOH_LOGO_ONLY_1.png",
-        "比赛权重": "0",
-        "赛事主办": "FSEC-SS (https://ctftime.org/team/436859)",
-        "比赛ID": "1613",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "InIt CTF",
         "比赛时间": "2026-11-14 23:30:00 - 2026-11-15 07:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3467.ics",
