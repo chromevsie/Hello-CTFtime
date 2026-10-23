@@ -10,24 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
-                [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
-                **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-23 22:00:00 - 2026-10-25 22:00:00 UTC+8  
-                **比赛权重** : 91.16  
-                **赛事主办** : HITCON (https://ctftime.org/team/8299)  
-                **添加日历** : https://ctftime.org/event/3340.ics  
-                
-            ??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
-                [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
-                **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-24 01:00:00 - 2026-10-26 01:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
-                **添加日历** : https://ctftime.org/event/3377.ics  
-                
             ??? Quote "[Hack.lu CTF 2026](https://flu.xxx/)"  
                 [![](https://ctftime.org/media/events/hacklu25.jpg){ width="200" align=left }](https://flu.xxx/)  
                 **比赛名称** : [Hack.lu CTF 2026](https://flu.xxx/)  
@@ -410,6 +392,24 @@
                 **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
                 **添加日历** : https://ctftime.org/event/3369.ics  
                 
+            ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
+                [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
+                **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-23 22:00:00 - 2026-10-25 22:00:00 UTC+8  
+                **比赛权重** : 91.16  
+                **赛事主办** : HITCON (https://ctftime.org/team/8299)  
+                **添加日历** : https://ctftime.org/event/3340.ics  
+                
+            ??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
+                [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
+                **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-24 01:00:00 - 2026-10-26 01:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
+                **添加日历** : https://ctftime.org/event/3377.ics  
+                
     === "*已经结束*"
         === "国内赛事"
     
@@ -429,7 +429,7 @@
                 **比赛形式** : Attack-Defense  
                 **比赛时间** : 2026-10-20 11:00:00 - 2026-10-20 22:00:00 UTC+8  
                 **比赛权重** : 49.50  
-                **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
+                **赛事主办** : Drovosec, SAS CREW (https://ctftime.org/team/210132, https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/3409.ics  
                 
             ??? Quote "[DEADFACE CTF 2026](https://ctf.deadface.io/)"  
