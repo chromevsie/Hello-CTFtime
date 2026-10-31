@@ -10,24 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctfcup.ru/)  
-                **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
-                **添加日历** : https://ctftime.org/event/3469.ics  
-                
-            ??? Quote "[StealthCup 2026](https://stealth.ait.ac.at/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://stealth.ait.ac.at/)  
-                **比赛名称** : [StealthCup 2026](https://stealth.ait.ac.at/)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2026-10-31 21:00:00 - 2026-11-01 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
-                **添加日历** : https://ctftime.org/event/3482.ics  
-                
             ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
                 [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
                 **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
@@ -347,6 +329,28 @@
                 **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
                 **添加日历** : https://ctftime.org/event/3459.ics  
                 
+            ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctfcup.ru/)  
+                **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
+                **添加日历** : https://ctftime.org/event/3469.ics  
+                
+            ??? Quote "[StealthCup 2026](https://stealth.ait.ac.at/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://stealth.ait.ac.at/)  
+                **比赛名称** : [StealthCup 2026](https://stealth.ait.ac.at/)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-10-31 21:00:00 - 2026-11-01 05:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : 0x01DA (https://ctftime.org/team/104949)  
+                **添加日历** : https://ctftime.org/event/3482.ics  
+                
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[HAM-DEFCON](http://defcon.hamarc.tech/)"  
                 [![](https://ctftime.org/media/events/hamarc.png){ width="200" align=left }](http://defcon.hamarc.tech/)  
                 **比赛名称** : [HAM-DEFCON](http://defcon.hamarc.tech/)  
@@ -356,10 +360,6 @@
                 **赛事主办** : HAMARC (https://ctftime.org/team/452464)  
                 **添加日历** : https://ctftime.org/event/3491.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
                 [![](https://ctftime.org/media/events/tanmay_2.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
                 **比赛名称** : [Hacker's Gambit 2026 (Round 2 – Grand Finale)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
@@ -1250,13 +1250,4 @@
                 **比赛权重** : 94.99  
                 **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
                 **添加日历** : https://ctftime.org/event/3112.ics  
-                
-            ??? Quote "[OmniCTF 2026 Quals](https://omnictf.com/)"  
-                [![](https://ctftime.org/media/events/logo1024x1024_1.png){ width="200" align=left }](https://omnictf.com/)  
-                **比赛名称** : [OmniCTF 2026 Quals](https://omnictf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-17 23:00:00 - 2026-07-19 23:00:00 UTC+8  
-                **比赛权重** : 23.96  
-                **赛事主办** : OmniCYBR (https://ctftime.org/team/383015)  
-                **添加日历** : https://ctftime.org/event/3104.ics  
                 
