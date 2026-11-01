@@ -455,7 +455,7 @@
                 **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.83  
                 **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
                 **添加日历** : https://ctftime.org/event/3369.ics  
                 
