@@ -10,33 +10,6 @@
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
-                [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
-                **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-06 18:00:00 - 2026-11-07 18:00:00 UTC+8  
-                **比赛权重** : 10.31  
-                **赛事主办** : Black Bauhinia, HKCERT (https://ctftime.org/team/83678, https://ctftime.org/team/134746)  
-                **添加日历** : https://ctftime.org/event/3418.ics  
-                
-            ??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.pink.bayern/)  
-                **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-06 20:00:00 - 2026-11-09 20:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
-                **添加日历** : https://ctftime.org/event/3331.ics  
-                
-            ??? Quote "[CSCTF 2026](https://2026.chronos-security.ro/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://2026.chronos-security.ro/)  
-                **比赛名称** : [CSCTF 2026](https://2026.chronos-security.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-06 21:00:00 - 2026-11-08 21:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
-                **添加日历** : https://ctftime.org/event/3333.ics  
-                
             ??? Quote "[SpookyCTF 2026](https://spooky.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/spookyctf_2026_1.PNG){ width="200" align=left }](https://spooky.ctfd.io/)  
                 **比赛名称** : [SpookyCTF 2026](https://spooky.ctfd.io/)  
@@ -310,6 +283,33 @@
                 **比赛权重** : 0  
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/3020.ics  
+                
+            ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
+                [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
+                **比赛名称** : [HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-06 18:00:00 - 2026-11-07 18:00:00 UTC+8  
+                **比赛权重** : 10.31  
+                **赛事主办** : Black Bauhinia, HKCERT (https://ctftime.org/team/83678, https://ctftime.org/team/134746)  
+                **添加日历** : https://ctftime.org/event/3418.ics  
+                
+            ??? Quote "[PINK+ CTF 2026](https://ctf.pink.bayern/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.pink.bayern/)  
+                **比赛名称** : [PINK+ CTF 2026](https://ctf.pink.bayern/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-06 20:00:00 - 2026-11-09 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : PINK+ (https://ctftime.org/team/438626)  
+                **添加日历** : https://ctftime.org/event/3331.ics  
+                
+            ??? Quote "[CSCTF 2026](https://2026.chronos-security.ro/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://2026.chronos-security.ro/)  
+                **比赛名称** : [CSCTF 2026](https://2026.chronos-security.ro/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-06 21:00:00 - 2026-11-08 21:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Chronos Security (https://ctftime.org/team/395297)  
+                **添加日历** : https://ctftime.org/event/3333.ics  
                 
     === "*已经结束*"
         === "国内赛事"
