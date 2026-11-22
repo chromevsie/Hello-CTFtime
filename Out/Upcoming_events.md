@@ -171,6 +171,15 @@ comments: true
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3062.ics  
     
+??? Quote "[pothloe CTF 2026](https://pothloe.cc/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://pothloe.cc/)  
+    **比赛名称** : [pothloe CTF 2026](https://pothloe.cc/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-12-28 04:00:00 - 2026-12-30 04:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : pothloe cft (https://ctftime.org/team/454659)  
+    **添加日历** : https://ctftime.org/event/3516.ics  
+    
 ??? Quote "[THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)"  
     [![](https://ctftime.org/media/events/Neon_CTF_Qualifiers__The_Final_Exploit.png){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
     **比赛名称** : [THE FINAL EXPLOIT CTF 2026—QUALIFIERS](https://0xv01d-ctf.xyz/)  
