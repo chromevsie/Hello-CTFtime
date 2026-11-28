@@ -45,3 +45,12 @@ comments: true
     **赛事主办** : L3m0n CTF (https://ctftime.org/team/417627)  
     **添加日历** : https://ctftime.org/event/3485.ics  
     
+??? Quote "[CyberNSK2027-Qualifier](https://quals.sslctf.ru/)"  
+    [![](https://ctftime.org/media/events/photo_2024-09-18_12-55-46_4.jpg){ width="200" align=left }](https://quals.sslctf.ru/)  
+    **比赛名称** : [CyberNSK2027-Qualifier](https://quals.sslctf.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-28 17:00:00 - 2026-11-29 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : siberiansecurityleague (https://ctftime.org/team/425775)  
+    **添加日历** : https://ctftime.org/event/3489.ics  
+    
